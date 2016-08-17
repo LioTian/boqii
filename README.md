@@ -1,2 +1,0 @@
-# boqii
-boqii
