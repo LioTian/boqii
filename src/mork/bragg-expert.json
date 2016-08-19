@@ -1,0 +1,1124 @@
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "component": {
+                    "userName": "格洛里娅",
+                    "description": "时尚地球",
+                    "userId": "730799",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload3.pimg.cn/user_upload/364513f4b7d0476ba3be12d5b8ec2b31.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "730799"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "复古摩登小探子",
+                    "description": "复古摩登小探子",
+                    "userId": "1253805",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload4.pimg.cn/user_upload/f3c100959fbd46bba9f2580f2908edea.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1253805"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "落落",
+                    "description": "时尚买手",
+                    "userId": "2182459",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload1.pimg.cn/user_upload/932f338cbc844640b8c1596f1c4f34fd.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "2182459"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "禁区姐姐",
+                    "description": "资深美容撰稿人",
+                    "userId": "2304802",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload2.pimg.cn/user_upload/5cb0273b70f54e2fb691444a010e9734.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "2304802"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "芽芽",
+                    "description": "时尚自由撰稿人",
+                    "userId": "1480214",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws.pimg.cn/2014-09-09-f9a4d9a12bc577655aabdcc45b45503c?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1480214"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "r7na睿奈",
+                    "description": "自由撰稿人",
+                    "userId": "1520874",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload3.pimg.cn/user_upload/8cd856c1e3114711929f9757f388a564.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1520874"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "漆小漆elegant",
+                    "description": "时尚店主",
+                    "userId": "1493091",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload4.pimg.cn/user_upload/addfa372863b4307bae6764d747bd608.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1493091"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "晓娟吕晓娟",
+                    "description": "模特兼原创服装设计师",
+                    "userId": "1755589",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload1.pimg.cn/user_upload/5af3de7c5d6e49bbb26112c7320bdcdf.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1755589"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "FebruaryLy",
+                    "description": "时尚设计师",
+                    "userId": "1562252",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload2.pimg.cn/user_upload/c90258dce98546e988e4df5d785e41b2.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1562252"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "✿｀C.C﹏",
+                    "description": "日系风格",
+                    "userId": "260022",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws0.pimg.cn/2015-01-04-85883fae48d82c523e260605d2e76623?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "260022"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "宅小小小七",
+                    "description": "时尚自由撰稿人",
+                    "userId": "1265771",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws1.pimg.cn/2014-11-26-61f16f22d6d29e05ae1ba8f9facbef37?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1265771"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "☆小菓菓☆",
+                    "description": "走秀模特",
+                    "userId": "372442",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws2.pimg.cn/2014-12-05-cb80cdde8e1764cf1294ea3b0b7a1cf5?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "372442"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "潘雅彬Sarah",
+                    "description": "平面模特、时尚撰稿人",
+                    "userId": "1295746",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload3.pimg.cn/user_upload/dc65dd3616aa44d98d946281fbda0940.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1295746"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "--rstrst",
+                    "description": "时尚店主、时尚撰稿人",
+                    "userId": "1328637",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://tp2.sinaimg.cn/2553826377/180/22857030907/0",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1328637"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "小鱼儿Frances",
+                    "description": "时尚撰稿人",
+                    "userId": "1459029",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws.pimg.cn/2014-12-23-6b2a3cdd6dd2cc421655661bbc3eca20?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1459029"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "亲亲新新-陈大奔儿",
+                    "description": "时尚撰稿人",
+                    "userId": "1427463",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://tp4.sinaimg.cn/1703746915/180/5683251096/0",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1427463"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "黎菲Cookie",
+                    "description": "平面模特",
+                    "userId": "1716495",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload4.pimg.cn/user_upload/9f2e9fc87f844064b42c7a632f7fe504.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1716495"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "幼恩Yunn",
+                    "description": "服装设计师",
+                    "userId": "1351939",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws0.pimg.cn/2014-09-11-2847ffaded01f14c986109dca51dd3e9?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1351939"
+                    }
+                }
+            }
+        ],
+        "flag": "18",
+        "appApi": "/new_forum/starusers"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "component": {
+                    "userName": "SSX老丸子",
+                    "description": "时尚自由撰稿人",
+                    "userId": "1373009",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload2.pimg.cn/user_upload/b2c401367532425781f65590b3fb9de3.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1373009"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "大一点点",
+                    "description": "美女店主 ，网易明星博主",
+                    "userId": "1960678",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://qzapp.qlogo.cn/qzapp/100276062/112FB2E5840AC42F99FD81A7E30FB25F/100",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1960678"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "朵朵的小窝窝",
+                    "description": "平面模特",
+                    "userId": "1934109",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws.pimg.cn/2014-12-27-f121207259f9798b5771913f35a0d81c?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1934109"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "红人衣秀",
+                    "description": "时尚店主",
+                    "userId": "1716445",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws0.pimg.cn/2014-10-16-72e2c69a82a784b4aa735eb0684d1745?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1716445"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "黛黛",
+                    "description": "时尚设计师",
+                    "userId": "1250487",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws1.pimg.cn/2014-09-29-2bc45c13e222a69390309be580d3aeff?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1250487"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "-SSssyoyi",
+                    "description": "专业舞蹈演员",
+                    "userId": "2019212",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws2.pimg.cn/2015-01-18-d8ac9cf93052cd1f6e5c5b0e0d51d596?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "2019212"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "华子。",
+                    "description": "时尚自由撰稿人",
+                    "userId": "1876481",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload3.pimg.cn/user_upload/ef8daefc131b485b99befd0b93d1343a.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1876481"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "valiant",
+                    "description": "时尚博主",
+                    "userId": "1758456",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload4.pimg.cn/user_upload/39a355fbb7a948ddb53a4616f9e57b31.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1758456"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "诗云不语",
+                    "description": "化妆师，自由撰稿人",
+                    "userId": "2136359",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload1.pimg.cn/user_upload/c736f063b268405292b4b159262d6766.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "2136359"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "狮女王小C",
+                    "description": "时尚自由撰稿人",
+                    "userId": "1642954",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://tp2.sinaimg.cn/3179017973/180/22874838438/0",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1642954"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "杨小花花的mommy",
+                    "description": "时尚博主",
+                    "userId": "887062",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws.pimg.cn/2014-12-12-c261dda956111d88c9ff80dd7542393d?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "887062"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "米雨体",
+                    "description": "时尚店主",
+                    "userId": "1423061",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws0.pimg.cn/2014-08-08-524eedf91befcd6970cde20f037f8d3e?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1423061"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "THE KING",
+                    "description": "时尚店主",
+                    "userId": "1079052",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws1.pimg.cn/2014-12-09-9c72a0c1e85e7b103406dac81700a5a5?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1079052"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "a布",
+                    "description": "时尚店主",
+                    "userId": "326808",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws2.pimg.cn/2014-09-17-61c61d02d00a0f0642cb17171dc48854?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "326808"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "SAM韩风馆",
+                    "description": "时尚店主",
+                    "userId": "1680726",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://qzapp.qlogo.cn/qzapp/100276062/C6CB57633BE3437A8A50A453860CE028/100",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1680726"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "茉莉密茶",
+                    "description": "时尚博主",
+                    "userId": "1088156",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws.pimg.cn/2015-01-04-63d49accfd790b60bee536fbfc3ffc15?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1088156"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "AHUHU",
+                    "description": "时尚买手，平面模特",
+                    "userId": "1326052",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws0.pimg.cn/2014-08-21-5ac6bfac3b2ee30c4220092df167e688?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "1326052"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "女王。",
+                    "description": "平面模特",
+                    "userId": "357861",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://qzapp.qlogo.cn/qzapp/100276062/D29A18F31C1ACB47D4D15640E54CEE83/100",
+                    "action": {
+                        "type": "user",
+                        "actionType": "detail",
+                        "id": "357861"
+                    }
+                }
+            }
+        ],
+        "flag": "36",
+        "appApi": "/new_forum/starusers"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "component": {
+                    "userName": "格洛里娅",
+                    "description": "时尚地球",
+                    "userId": "730799",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload3.pimg.cn/user_upload/364513f4b7d0476ba3be12d5b8ec2b31.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "730799"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "复古摩登小探子",
+                    "description": "复古摩登小探子",
+                    "userId": "1253805",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload4.pimg.cn/user_upload/f3c100959fbd46bba9f2580f2908edea.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1253805"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "落落",
+                    "description": "时尚买手",
+                    "userId": "2182459",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload1.pimg.cn/user_upload/932f338cbc844640b8c1596f1c4f34fd.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "2182459"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "禁区姐姐",
+                    "description": "资深美容撰稿人",
+                    "userId": "2304802",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload2.pimg.cn/user_upload/5cb0273b70f54e2fb691444a010e9734.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "2304802"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "芽芽",
+                    "description": "时尚自由撰稿人",
+                    "userId": "1480214",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws.pimg.cn/2014-09-09-f9a4d9a12bc577655aabdcc45b45503c?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1480214"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "r7na睿奈",
+                    "description": "自由撰稿人",
+                    "userId": "1520874",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload3.pimg.cn/user_upload/8cd856c1e3114711929f9757f388a564.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1520874"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "漆小漆elegant",
+                    "description": "时尚店主",
+                    "userId": "1493091",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload4.pimg.cn/user_upload/addfa372863b4307bae6764d747bd608.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1493091"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "晓娟吕晓娟",
+                    "description": "模特兼原创服装设计师",
+                    "userId": "1755589",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload1.pimg.cn/user_upload/5af3de7c5d6e49bbb26112c7320bdcdf.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1755589"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "FebruaryLy",
+                    "description": "时尚设计师",
+                    "userId": "1562252",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload2.pimg.cn/user_upload/c90258dce98546e988e4df5d785e41b2.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1562252"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "✿｀C.C﹏",
+                    "description": "日系风格",
+                    "userId": "260022",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws0.pimg.cn/2015-01-04-85883fae48d82c523e260605d2e76623?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "260022"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "宅小小小七",
+                    "description": "时尚自由撰稿人",
+                    "userId": "1265771",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws1.pimg.cn/2014-11-26-61f16f22d6d29e05ae1ba8f9facbef37?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1265771"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "☆小菓菓☆",
+                    "description": "走秀模特",
+                    "userId": "372442",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws2.pimg.cn/2014-12-05-cb80cdde8e1764cf1294ea3b0b7a1cf5?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "372442"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "潘雅彬Sarah",
+                    "description": "平面模特、时尚撰稿人",
+                    "userId": "1295746",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload3.pimg.cn/user_upload/dc65dd3616aa44d98d946281fbda0940.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1295746"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "--rstrst",
+                    "description": "时尚店主、时尚撰稿人",
+                    "userId": "1328637",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://tp2.sinaimg.cn/2553826377/180/22857030907/0",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1328637"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "小鱼儿Frances",
+                    "description": "时尚撰稿人",
+                    "userId": "1459029",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws.pimg.cn/2014-12-23-6b2a3cdd6dd2cc421655661bbc3eca20?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1459029"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "亲亲新新-陈大奔儿",
+                    "description": "时尚撰稿人",
+                    "userId": "1427463",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://tp4.sinaimg.cn/1703746915/180/5683251096/0",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1427463"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "黎菲Cookie",
+                    "description": "平面模特",
+                    "userId": "1716495",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload4.pimg.cn/user_upload/9f2e9fc87f844064b42c7a632f7fe504.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1716495"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "幼恩Yunn",
+                    "description": "服装设计师",
+                    "userId": "1351939",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws0.pimg.cn/2014-09-11-2847ffaded01f14c986109dca51dd3e9?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1351939"
+                    }
+                }
+            }
+        ],
+        "flag": "18",
+        "appApi": "/new_forum/starusers"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "name": "搭配&自拍",
+                "threadCount": "672651",
+                "commentCount": "1775493",
+                "picUrl": "http://m0.pimg.cn/images/images/20150821/aa2c1b92-5f51-499f-a027-3eb80c3a22d3.png",
+                "online": "375",
+                "id": "110"
+            },
+            {
+                "name": "美妞养成",
+                "threadCount": "290124",
+                "commentCount": "2855700",
+                "picUrl": "http://m2.pimg.cn/images/images/20150821/5917c62e-603c-4bbe-8e64-88a8604c02b0.png",
+                "online": "236",
+                "id": "104"
+            },
+            {
+                "name": "美甲&发型",
+                "threadCount": "34899",
+                "commentCount": "294738",
+                "picUrl": "http://m4.pimg.cn/images/images/20150821/3270270b-c58f-463c-8e7b-606dee4bc110.png",
+                "online": "118",
+                "id": "112"
+            },
+            {
+                "name": "寓悦家居",
+                "threadCount": "3985",
+                "commentCount": "27914",
+                "picUrl": "http://m6.pimg.cn/images/images/20150821/edb32e88-88f1-4341-8dda-1844dd7deaa4.png",
+                "online": "175",
+                "id": "115"
+            },
+            {
+                "name": "娱乐",
+                "threadCount": "146034",
+                "commentCount": "1494774",
+                "picUrl": "http://m0.pimg.cn/images/images/20150821/facfb64e-ed28-4173-9297-7252851e08a0.png",
+                "online": "437",
+                "id": "106"
+            },
+            {
+                "name": "乐活",
+                "threadCount": "30078",
+                "commentCount": "246792",
+                "picUrl": "http://m2.pimg.cn/images/images/20150821/1521802f-bea2-404f-a828-95abe553d9bb.png",
+                "online": "182",
+                "id": "113"
+            },
+            {
+                "name": "情感美文",
+                "threadCount": "4491",
+                "commentCount": "26009",
+                "picUrl": "http://m4.pimg.cn/images/images/20150821/494c0198-e339-4fe7-b456-2cb74a303c31.png",
+                "online": "191",
+                "id": "114"
+            },
+            {
+                "name": "星店推荐",
+                "threadCount": "898",
+                "commentCount": "2512",
+                "picUrl": "http://m6.pimg.cn/images/images/20151014/2eb6c3ad-00c7-4000-b046-64a6ad8752e6.png",
+                "online": "119",
+                "id": "116"
+            },
+            {
+                "name": "意见反馈",
+                "threadCount": "4384",
+                "commentCount": "9430",
+                "picUrl": "http://m0.pimg.cn/images/images/20150821/c1c99f0e-8400-41de-86db-fdfa2b66cbd0.png",
+                "online": "156",
+                "id": "108"
+            }
+        ],
+        "appApi": "/new_forum/status"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "component": {
+                    "userName": "SSX老丸子",
+                    "description": "时尚自由撰稿人",
+                    "userId": "1373009",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload2.pimg.cn/user_upload/b2c401367532425781f65590b3fb9de3.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1373009"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "大一点点",
+                    "description": "美女店主 ，网易明星博主",
+                    "userId": "1960678",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://qzapp.qlogo.cn/qzapp/100276062/112FB2E5840AC42F99FD81A7E30FB25F/100",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1960678"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "朵朵的小窝窝",
+                    "description": "平面模特",
+                    "userId": "1934109",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws.pimg.cn/2014-12-27-f121207259f9798b5771913f35a0d81c?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1934109"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "红人衣秀",
+                    "description": "时尚店主",
+                    "userId": "1716445",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws0.pimg.cn/2014-10-16-72e2c69a82a784b4aa735eb0684d1745?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1716445"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "黛黛",
+                    "description": "时尚设计师",
+                    "userId": "1250487",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws1.pimg.cn/2014-09-29-2bc45c13e222a69390309be580d3aeff?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1250487"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "-SSssyoyi",
+                    "description": "专业舞蹈演员",
+                    "userId": "2019212",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws2.pimg.cn/2015-01-18-d8ac9cf93052cd1f6e5c5b0e0d51d596?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "2019212"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "华子。",
+                    "description": "时尚自由撰稿人",
+                    "userId": "1876481",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload3.pimg.cn/user_upload/ef8daefc131b485b99befd0b93d1343a.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1876481"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "valiant",
+                    "description": "时尚博主",
+                    "userId": "1758456",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload4.pimg.cn/user_upload/39a355fbb7a948ddb53a4616f9e57b31.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1758456"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "诗云不语",
+                    "description": "化妆师，自由撰稿人",
+                    "userId": "2136359",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://api.upload1.pimg.cn/user_upload/c736f063b268405292b4b159262d6766.jpeg_thumb_120x%3E_.jpeg",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "2136359"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "狮女王小C",
+                    "description": "时尚自由撰稿人",
+                    "userId": "1642954",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://tp2.sinaimg.cn/3179017973/180/22874838438/0",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1642954"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "杨小花花的mommy",
+                    "description": "时尚博主",
+                    "userId": "887062",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws.pimg.cn/2014-12-12-c261dda956111d88c9ff80dd7542393d?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "887062"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "米雨体",
+                    "description": "时尚店主",
+                    "userId": "1423061",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws0.pimg.cn/2014-08-08-524eedf91befcd6970cde20f037f8d3e?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1423061"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "THE KING",
+                    "description": "时尚店主",
+                    "userId": "1079052",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws1.pimg.cn/2014-12-09-9c72a0c1e85e7b103406dac81700a5a5?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1079052"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "a布",
+                    "description": "时尚店主",
+                    "userId": "326808",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws2.pimg.cn/2014-09-17-61c61d02d00a0f0642cb17171dc48854?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "326808"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "SAM韩风馆",
+                    "description": "时尚店主",
+                    "userId": "1680726",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://qzapp.qlogo.cn/qzapp/100276062/C6CB57633BE3437A8A50A453860CE028/100",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1680726"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "茉莉密茶",
+                    "description": "时尚博主",
+                    "userId": "1088156",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws.pimg.cn/2015-01-04-63d49accfd790b60bee536fbfc3ffc15?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1088156"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "AHUHU",
+                    "description": "时尚买手，平面模特",
+                    "userId": "1326052",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://fws0.pimg.cn/2014-08-21-5ac6bfac3b2ee30c4220092df167e688?op=imageMogr2&thumbnail=120x0%3E",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "1326052"
+                    }
+                }
+            },
+            {
+                "component": {
+                    "userName": "女王。",
+                    "description": "平面模特",
+                    "userId": "357861",
+                    "componentType": "starUserCell",
+                    "userAvatar": "http://qzapp.qlogo.cn/qzapp/100276062/D29A18F31C1ACB47D4D15640E54CEE83/100",
+                    "action": {
+                        "actionType": "detail",
+                        "type": "user",
+                        "id": "357861"
+                    }
+                }
+            }
+        ],
+        "flag": "36",
+        "appApi": "/new_forum/starusers"
+    }
+}

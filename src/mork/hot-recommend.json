@@ -1,0 +1,4034 @@
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "component": {
+                    "showTimeColor": "255,56,141,255",
+                    "monthOnly": "08",
+                    "showTime": "18:00",
+                    "dayColor": "85,85,85,255",
+                    "publishColor": "129,129,129,255",
+                    "month": "08/16",
+                    "componentType": "calendar",
+                    "monthColor": "129,129,129,255",
+                    "backgroundUrl": "",
+                    "weekDay": "周五",
+                    "year": "2016",
+                    "action": {},
+                    "weekDayBgUrl": "http://m0.pimg.cn/images/images/20130518/301d624c-cfc2-4467-956b-c9f7951de662.png",
+                    "weekDayColor": "129,129,129,255",
+                    "xingQi": "星期五",
+                    "day": "19"
+                }
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "已售磬",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "昕薇 2016夏装新款时尚百搭一字领纯色褶皱拼接宽松短袖T恤",
+                    "country": "国内",
+                    "price": "108.00",
+                    "starCount": "1",
+                    "sales": "59",
+                    "componentType": "item",
+                    "collectionCount": "68",
+                    "eventIcon": "",
+                    "publish_date": 1471607320,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/2A/wKgBjFe1ceCAOkt1AAErCtCgHWk615.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "348.00",
+                    "id": "6856032",
+                    "trackValue": "item_sku_6856032"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "柚子美衣2016初秋新款韩版宽松显瘦长袖休闲衬衣女 潮",
+                    "country": "国内",
+                    "price": "65.00",
+                    "collectionCount": "351",
+                    "sales": "214",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470738472,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/35/wKgBjVe1ceKABc2rAAFqaNYLqZs960.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "130.00",
+                    "id": "6954364",
+                    "trackValue": "item_sku_6954364"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "ZZ大小姐2016夏款OL简约印花真丝清凉短袖浅蓝色衬衫",
+                    "country": "国内",
+                    "price": "135.00",
+                    "collectionCount": "747",
+                    "sales": "313",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1469007023,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGASNbWAAFg6M2bvYs419.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "578.90",
+                    "id": "6925836",
+                    "trackValue": "item_sku_6925836"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "HeyDress裙纪 小黑裙吊带连衣裙",
+                    "country": "国内",
+                    "price": "294.90",
+                    "starCount": "1",
+                    "sales": "359",
+                    "componentType": "item",
+                    "collectionCount": "749",
+                    "eventIcon": "",
+                    "publish_date": 1462878866,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/33/wKgBjVe1cd-APx2qAADmCopuDes547.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "295.00",
+                    "id": "6771574",
+                    "trackValue": "item_sku_6771574"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "Chartres原创女装 白色圆点蕾丝连衣裙网纱透视连衣裙",
+                    "country": "国内",
+                    "price": "329.00",
+                    "starCount": "7",
+                    "sales": "123",
+                    "componentType": "item",
+                    "collectionCount": "752",
+                    "eventIcon": "",
+                    "publish_date": 1465554370,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/33/wKgBjVe1ceCAco3yAAEm0S3Q8P8450.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "649.00",
+                    "id": "6854775",
+                    "trackValue": "item_sku_6854775"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "HeyDress经典赫本风小黑裙",
+                    "country": "国内",
+                    "price": "388.00",
+                    "starCount": "2",
+                    "sales": "253",
+                    "componentType": "item",
+                    "collectionCount": "655",
+                    "eventIcon": "",
+                    "publish_date": 1462879008,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/33/wKgBjVe1cd-AB2aGAADh4yjchfA126.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "388.00",
+                    "id": "6771577",
+                    "trackValue": "item_sku_6771577"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "Chartres原创 黑色拼接连衣裙荷叶边袖娃娃领假短裙女装",
+                    "country": "国内",
+                    "price": "339.00",
+                    "collectionCount": "979",
+                    "sales": "331",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1466179254,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/33/wKgBjVe1ceCAJMdmAAFC550xmKo080.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "659.00",
+                    "id": "6854781",
+                    "trackValue": "item_sku_6854781"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Glamorous黑色蕾丝吊带包身连衣裙",
+                    "country": "英国",
+                    "price": "528.46",
+                    "starCount": "6",
+                    "sales": "400",
+                    "componentType": "item",
+                    "collectionCount": "141",
+                    "eventIcon": "",
+                    "publish_date": 1465988150,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/2A/wKgBjFe1ceGAKlNhAAElWnNo7Xk430.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "528.46",
+                    "id": "6865830",
+                    "trackValue": "item_sku_6865830"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "俏2016秋款针织衫女开衫薄款中长款夏口袋空调衫宽松披肩外套",
+                    "country": "国内",
+                    "price": "249.00",
+                    "starCount": "1",
+                    "sales": "192",
+                    "componentType": "item",
+                    "collectionCount": "767",
+                    "eventIcon": "",
+                    "publish_date": 1470999735,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGAdr31AAFPoNBSKMU353.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "799.00",
+                    "id": "6905566",
+                    "trackValue": "item_sku_6905566"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "仓森韩装 2016夏装新款高品质宽松露背韩版一字领条纹雪纺衫",
+                    "country": "国内",
+                    "price": "115.00",
+                    "starCount": "2",
+                    "sales": "499",
+                    "componentType": "item",
+                    "collectionCount": "455",
+                    "eventIcon": "",
+                    "publish_date": 1470674121,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/32/wKgBjVe1cd6AJmojAAFuhuXApOY608.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "258.00",
+                    "id": "6674897",
+                    "trackValue": "item_sku_6674897"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "仓森韩装 2016夏装新款高品质修身韩版气质蕾丝雪纺衫两件套",
+                    "country": "国内",
+                    "price": "158.00",
+                    "collectionCount": "597",
+                    "sales": "373",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470674134,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/28/wKgBjFe1cd6Ab9R0AAGXPJ8aUm8127.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "288.00",
+                    "id": "6674899",
+                    "trackValue": "item_sku_6674899"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Glamorous甜美花朵印花一字肩连衣裙",
+                    "country": "英国",
+                    "price": "281.85",
+                    "starCount": "1",
+                    "sales": "94",
+                    "componentType": "item",
+                    "collectionCount": "481",
+                    "eventIcon": "",
+                    "publish_date": 1465991232,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAfOqIAAHKqC6lAp4506.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "281.85",
+                    "id": "6865837",
+                    "trackValue": "item_sku_6865837"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "COMMON-UNIQUE-淑女百褶时尚半身短裙",
+                    "country": "韩国",
+                    "price": "315.94",
+                    "collectionCount": "526",
+                    "sales": "464",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470154071,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/28/wKgBjFe1cd6Aa8onAAEATe3YXn8389.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "315.94",
+                    "id": "5528905",
+                    "trackValue": "item_sku_5528905"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "仓森韩装2016夏装新款韩版吊带开叉波纹连衣裙波西米亚风长裙",
+                    "country": "国内",
+                    "price": "160.00",
+                    "starCount": "1",
+                    "sales": "341",
+                    "componentType": "item",
+                    "collectionCount": "486",
+                    "eventIcon": "",
+                    "publish_date": 1470674067,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/2A/wKgBjFe1ceCAURsaAAHLRmoW0jM640.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "328.00",
+                    "id": "6829264",
+                    "trackValue": "item_sku_6829264"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "仓森韩装印花雪纺衫女2016夏装新款印花上衣女显瘦荷叶袖小衫",
+                    "country": "国内",
+                    "price": "115.00",
+                    "starCount": "1",
+                    "sales": "410",
+                    "componentType": "item",
+                    "collectionCount": "826",
+                    "eventIcon": "",
+                    "publish_date": 1470674041,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/33/wKgBjVe1ceCAC-G_AAHso2CfjaQ796.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "258.00",
+                    "id": "6829266",
+                    "trackValue": "item_sku_6829266"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "仓森韩装 2016春夏新款时尚几何印花女半身短裙潮高腰蓬蓬裙",
+                    "country": "国内",
+                    "price": "134.00",
+                    "starCount": "1",
+                    "sales": "275",
+                    "componentType": "item",
+                    "collectionCount": "375",
+                    "eventIcon": "",
+                    "publish_date": 1470674055,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/29/wKgBjFe1ceCACTjuAAGUe0cVf_4038.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "258.00",
+                    "id": "6829267",
+                    "trackValue": "item_sku_6829267"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Glamorous黑色蕾丝花型性感露背连衣裙",
+                    "country": "英国",
+                    "price": "440.39",
+                    "starCount": "1",
+                    "sales": "171",
+                    "componentType": "item",
+                    "collectionCount": "375",
+                    "eventIcon": "",
+                    "publish_date": 1465990074,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/2A/wKgBjFe1ceGAIX4HAADsaKvWa3k598.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "440.39",
+                    "id": "6865842",
+                    "trackValue": "item_sku_6865842"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Glamorous花朵撞色拼接长款连衣裙",
+                    "country": "英国",
+                    "price": "647.62",
+                    "collectionCount": "124",
+                    "sales": "420",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1471282463,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAZL86AAEBnUkXNsA969.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6865843",
+                        "collectionCount": "124"
+                    },
+                    "origin_price": "690.80",
+                    "id": "6865843",
+                    "trackValue": "item_sku_6865843"
+                },
+                "height": "470"
+            }
+        ],
+        "flag": "101562",
+        "appApi": "/items"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Glamorous领带装饰V领连衣裙",
+                    "country": "英国",
+                    "price": "229.00",
+                    "starCount": "1",
+                    "sales": "300",
+                    "componentType": "item",
+                    "collectionCount": "182",
+                    "eventIcon": "",
+                    "publish_date": 1466511118,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAO5WjAABqerykTL8576.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "229.00",
+                    "id": "6877623",
+                    "trackValue": "item_sku_6877623"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "Swise苏安真针织运动风中长款连衣裙",
+                    "country": "国内",
+                    "price": "137.00",
+                    "collectionCount": "1077",
+                    "sales": "58",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470392653,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/32/wKgBjVe1cd6AebTXAADXU-xW7dY110.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "623.00",
+                    "id": "4269251",
+                    "trackValue": "item_sku_4269251"
+                },
+                "height": "470"
+            },
+            {
+                "component": {
+                    "showTimeColor": "255,56,141,255",
+                    "monthOnly": "08",
+                    "showTime": "16:00",
+                    "dayColor": "85,85,85,255",
+                    "publishColor": "129,129,129,255",
+                    "month": "08/16",
+                    "componentType": "calendar",
+                    "monthColor": "129,129,129,255",
+                    "backgroundUrl": "",
+                    "weekDay": "周五",
+                    "year": "2016",
+                    "action": {},
+                    "weekDayBgUrl": "http://m0.pimg.cn/images/images/20130518/301d624c-cfc2-4467-956b-c9f7951de662.png",
+                    "weekDayColor": "129,129,129,255",
+                    "xingQi": "星期五",
+                    "day": "19"
+                }
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "仓森韩装2016夏装新款韩版几何印花雪纺阔腿裤开叉沙滩裙裤",
+                    "country": "国内",
+                    "price": "142.00",
+                    "starCount": "1",
+                    "sales": "386",
+                    "componentType": "item",
+                    "collectionCount": "593",
+                    "eventIcon": "",
+                    "publish_date": 1470673982,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/2A/wKgBjFe1ceCANcjoAAHWKmocb78820.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "288.00",
+                    "id": "6829275",
+                    "trackValue": "item_sku_6829275"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Glamorous露肩修身连衣裙",
+                    "country": "英国",
+                    "price": "220.19",
+                    "starCount": "1",
+                    "sales": "51",
+                    "componentType": "item",
+                    "collectionCount": "1038",
+                    "eventIcon": "",
+                    "publish_date": 1466517935,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/34/wKgBjVe1ceGASgltAACWZ6KGWUI203.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "220.19",
+                    "id": "6877626",
+                    "trackValue": "item_sku_6877626"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "VIVIDNCO2016夏款口袋装饰宽腰带半身裙",
+                    "country": "韩国",
+                    "price": "299.36",
+                    "collectionCount": "370",
+                    "sales": "462",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1465754291,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/33/wKgBjVe1ceCAUscqAAD1pQVK3YA529.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "427.67",
+                    "id": "6852862",
+                    "trackValue": "item_sku_6852862"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI新款文艺范轻复古格纹开衫马甲背心 短裤两件套套装",
+                    "country": "国内",
+                    "price": "119.00",
+                    "collectionCount": "115",
+                    "sales": "394",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1471256842,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGAB64yAAE8OnwbmD4265.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "269.00",
+                    "id": "6934283",
+                    "trackValue": "item_sku_6934283"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "艾妃莎2016夏装新款波西米亚大摆型雪纺修身连衣裙",
+                    "country": "国内",
+                    "price": "188.00",
+                    "starCount": "2",
+                    "sales": "209",
+                    "componentType": "item",
+                    "collectionCount": "387",
+                    "eventIcon": "",
+                    "publish_date": 1471619079,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AGIKwAAGklTcAvI8233.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "379.00",
+                    "id": "6594755",
+                    "trackValue": "item_sku_6594755"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "ZZ大小姐2016夏款欧美休闲无袖碎花荷叶边连衣裙",
+                    "country": "国内",
+                    "price": "188.80",
+                    "collectionCount": "417",
+                    "sales": "356",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1468945230,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGAWS3JAAFqT3QzYMI663.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "789.90",
+                    "id": "6925907",
+                    "trackValue": "item_sku_6925907"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "仓森韩装 2016夏装新款韩版镂空V领宽松落肩七分袖休闲T恤",
+                    "country": "国内",
+                    "price": "106.00",
+                    "collectionCount": "907",
+                    "sales": "164",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470674079,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/33/wKgBjVe1cd-AFpdbAADrGLxOtfE036.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "198.00",
+                    "id": "6795531",
+                    "trackValue": "item_sku_6795531"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "亿瑞儿2016夏季新款半露肩翻领短袖雪纺衫",
+                    "country": "国内",
+                    "price": "78.00",
+                    "collectionCount": "549",
+                    "sales": "499",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1465916228,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/34/wKgBjVe1ceCAH_anAADQ3SCVowA625.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "198.00",
+                    "id": "6864094",
+                    "trackValue": "item_sku_6864094"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "AKMAGONGJOO-时尚半身短裙",
+                    "country": "韩国",
+                    "price": "240.00",
+                    "collectionCount": "1078",
+                    "sales": "103",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1462964388,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/32/wKgBjVe1cd6Adb8NAAD7Yp2_NyI374.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "480.00",
+                    "id": "6717926",
+                    "trackValue": "item_sku_6717926"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "MolaLuna2016夏款简约竹节棉T恤裙",
+                    "country": "国内",
+                    "price": "99.00",
+                    "collectionCount": "701",
+                    "sales": "510",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470224426,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/33/wKgBjVe1ceCANrruAACihtAfrBI483.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "259.00",
+                    "id": "6808909",
+                    "trackValue": "item_sku_6808909"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "AKMAGONGJOO-蕾丝淑女连衣裙",
+                    "country": "韩国",
+                    "price": "405.00",
+                    "collectionCount": "567",
+                    "sales": "375",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1467230359,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AcwslAADNXt3BwRk120.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "810.00",
+                    "id": "6717934",
+                    "trackValue": "item_sku_6717934"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "ZZ大小姐2016夏款欧美棉麻风两色无袖黑白撞色扣连衣裙",
+                    "country": "国内",
+                    "price": "259.00",
+                    "starCount": "2",
+                    "sales": "119",
+                    "componentType": "item",
+                    "collectionCount": "663",
+                    "eventIcon": "",
+                    "publish_date": 1468944886,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAPK7tAAGixxbsL_c832.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "799.90",
+                    "id": "6925925",
+                    "trackValue": "item_sku_6925925"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW-KAY7YVAAAGEdehimM962.png",
+                    "description": "Bluejuice圆领纯色优雅风情连衣裙",
+                    "country": "澳洲",
+                    "price": "269.00",
+                    "starCount": "1",
+                    "sales": "399",
+                    "componentType": "item",
+                    "collectionCount": "845",
+                    "eventIcon": "",
+                    "publish_date": 1470756754,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/29/wKgBjFe1ceCASf0gAABz8BBH4nU593.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "499.00",
+                    "id": "6828456",
+                    "trackValue": "item_sku_6828456"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "ZZ大小姐2016夏款宽松显瘦立领绑带设计感短袖蓝色上衣",
+                    "country": "国内",
+                    "price": "169.00",
+                    "starCount": "2",
+                    "sales": "108",
+                    "componentType": "item",
+                    "collectionCount": "112",
+                    "eventIcon": "",
+                    "publish_date": 1469810269,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGAOjbtAAFlxugoOPw712.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "799.90",
+                    "id": "6925840",
+                    "trackValue": "item_sku_6925840"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Glamorous灰色系带装饰休闲短裤",
+                    "country": "英国",
+                    "price": "175.91",
+                    "starCount": "2",
+                    "sales": "225",
+                    "componentType": "item",
+                    "collectionCount": "620",
+                    "eventIcon": "",
+                    "publish_date": 1463392634,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/29/wKgBjFe1cd-Ae9B-AAC-kZ6i0a4159.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "175.91",
+                    "id": "6787684",
+                    "trackValue": "item_sku_6787684"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "亿瑞儿2016夏季新款百褶白色百搭T恤",
+                    "country": "国内",
+                    "price": "78.00",
+                    "collectionCount": "1041",
+                    "sales": "472",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1465917156,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/2A/wKgBjFe1ceGABCZSAADP21o2k0g696.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6864176",
+                        "collectionCount": "1041"
+                    },
+                    "origin_price": "198.00",
+                    "id": "6864176",
+                    "trackValue": "item_sku_6864176"
+                },
+                "height": "470"
+            }
+        ],
+        "flag": "101544",
+        "appApi": "/items"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Glamorous系带装饰休闲裤慢跑裤",
+                    "country": "英国",
+                    "price": "281.45",
+                    "collectionCount": "1055",
+                    "sales": "330",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1463392561,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/33/wKgBjVe1cd-AfVs5AAC8dqgzoc8117.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "281.45",
+                    "id": "6787686",
+                    "trackValue": "item_sku_6787686"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Dora时尚T恤",
+                    "country": "韩国",
+                    "price": "104.50",
+                    "starCount": "1",
+                    "sales": "351",
+                    "componentType": "item",
+                    "collectionCount": "750",
+                    "eventIcon": "",
+                    "publish_date": 1470741037,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AegxxAAHVaccZKKQ671.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "277.20",
+                    "id": "6723306",
+                    "trackValue": "item_sku_6723306"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "sennos zhou 百搭花卉印花连衣裙",
+                    "country": "国内",
+                    "price": "259.00",
+                    "collectionCount": "1273",
+                    "sales": "235",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1465841187,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/33/wKgBjVe1ceCATnBEAAHtH9RmBzs763.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "478.00",
+                    "id": "6861378",
+                    "trackValue": "item_sku_6861378"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "俏2016夏款雪纺拼接镂空蕾丝宽松连衣裙",
+                    "country": "国内",
+                    "price": "299.00",
+                    "collectionCount": "1318",
+                    "sales": "345",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1464107871,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/33/wKgBjVe1ceCASg_HAAGCfXXwPOU259.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "1599.00",
+                    "id": "6814588",
+                    "trackValue": "item_sku_6814588"
+                },
+                "height": "470"
+            },
+            {
+                "component": {
+                    "showTimeColor": "255,56,141,255",
+                    "monthOnly": "08",
+                    "showTime": "14:00",
+                    "dayColor": "85,85,85,255",
+                    "publishColor": "129,129,129,255",
+                    "month": "08/16",
+                    "componentType": "calendar",
+                    "monthColor": "129,129,129,255",
+                    "backgroundUrl": "",
+                    "weekDay": "周五",
+                    "year": "2016",
+                    "action": {},
+                    "weekDayBgUrl": "http://m6.pimg.cn/images/images/20130518/301d624c-cfc2-4467-956b-c9f7951de662.png",
+                    "weekDayColor": "129,129,129,255",
+                    "xingQi": "星期五",
+                    "day": "19"
+                }
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW-KAY7YVAAAGEdehimM962.png",
+                    "description": "Bluejuice 圆领印花宽松连衣裙",
+                    "country": "澳洲",
+                    "price": "269.00",
+                    "collectionCount": "169",
+                    "sales": "432",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1464378724,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/29/wKgBjFe1ceCAaBr6AAEcigKVYFI456.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "499.00",
+                    "id": "6828513",
+                    "trackValue": "item_sku_6828513"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "贝琳嘉 海岛度假风复古飘逸女神花色水墨画雪纺开衩包臀半身长裙",
+                    "country": "国内",
+                    "price": "89.00",
+                    "starCount": "1",
+                    "sales": "214",
+                    "componentType": "item",
+                    "collectionCount": "618",
+                    "eventIcon": "",
+                    "publish_date": 1467282587,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/29/wKgBjFe1cd-AcH4qAACf26hmlMo738.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "178.00",
+                    "id": "6792054",
+                    "trackValue": "item_sku_6792054"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "sennos zhou雪纺拼接牛仔背带百褶裙",
+                    "country": "国内",
+                    "price": "239.00",
+                    "collectionCount": "747",
+                    "sales": "82",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1469012624,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGATKuOAAG-foVHSmA159.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "439.00",
+                    "id": "6927046",
+                    "trackValue": "item_sku_6927046"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "ZZ大小姐2016春款韩版蕾丝绣花短款上衣短袖防晒衫",
+                    "country": "国内",
+                    "price": "89.00",
+                    "starCount": "3",
+                    "sales": "61",
+                    "componentType": "item",
+                    "collectionCount": "1032",
+                    "eventIcon": "",
+                    "publish_date": 1469810160,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/28/wKgBjFe1cd6ADL0YAAEod4S3yeM197.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "339.90",
+                    "id": "6525896",
+                    "trackValue": "item_sku_6525896"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW-KAY7YVAAAGEdehimM962.png",
+                    "description": "Bluejuice 条纹透视拼接无袖连衣裙",
+                    "country": "澳洲",
+                    "price": "329.00",
+                    "starCount": "1",
+                    "sales": "76",
+                    "componentType": "item",
+                    "collectionCount": "150",
+                    "eventIcon": "",
+                    "publish_date": 1470764623,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AGuipAABwzihoCws897.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "729.00",
+                    "id": "6536883",
+                    "trackValue": "item_sku_6536883"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "ZZ大小姐2016春款韩版百搭蕾丝拼接荷叶边条纹连衣裙",
+                    "country": "国内",
+                    "price": "88.00",
+                    "starCount": "2",
+                    "sales": "239",
+                    "componentType": "item",
+                    "collectionCount": "740",
+                    "eventIcon": "",
+                    "publish_date": 1471016861,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AInOsAADpR9N_woE118.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "399.90",
+                    "id": "6525904",
+                    "trackValue": "item_sku_6525904"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Glamorous黑色镂空花型包臀半身裙",
+                    "country": "英国",
+                    "price": "345.40",
+                    "starCount": "2",
+                    "sales": "137",
+                    "componentType": "item",
+                    "collectionCount": "841",
+                    "eventIcon": "",
+                    "publish_date": 1471282139,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/34/wKgBjVe1ceGABlLZAADgqe7M7xk354.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "388.58",
+                    "id": "6865828",
+                    "trackValue": "item_sku_6865828"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "common unique休闲裤",
+                    "country": "韩国",
+                    "price": "195.18",
+                    "collectionCount": "387",
+                    "sales": "88",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470153176,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/28/wKgBjFe1cd6ABkSnAACnx27B4Sk191.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "390.00",
+                    "id": "5386687",
+                    "trackValue": "item_sku_5386687"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "亿瑞儿2016夏季新款假两件百褶雪纺吊带背心 连体阔腿",
+                    "country": "国内",
+                    "price": "98.00",
+                    "collectionCount": "725",
+                    "sales": "332",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1465918554,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAO7TjAACtPcxbq24355.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "298.00",
+                    "id": "6864335",
+                    "trackValue": "item_sku_6864335"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Gaenso时尚牛仔裤",
+                    "country": "韩国",
+                    "price": "380.00",
+                    "collectionCount": "519",
+                    "sales": "235",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470154117,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AGsxNAAFs5ErIX28426.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "760.00",
+                    "id": "6594974",
+                    "trackValue": "item_sku_6594974"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "CCDD2016夏装新款专柜正品黑白横条纹印花苞裙通勤连衣裙",
+                    "country": "国内",
+                    "price": "111.60",
+                    "starCount": "1",
+                    "sales": "360",
+                    "componentType": "item",
+                    "collectionCount": "1189",
+                    "eventIcon": "",
+                    "publish_date": 1466604219,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/33/wKgBjVe1ceCAZ8gLAAEBvqAyjNQ317.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "279.00",
+                    "id": "6856688",
+                    "trackValue": "item_sku_6856688"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Akmagongjoo时尚短裙",
+                    "country": "韩国",
+                    "price": "360.00",
+                    "collectionCount": "587",
+                    "sales": "435",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1471541390,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AK-_8AAEh3BryT8o488.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "620.00",
+                    "id": "6718056",
+                    "trackValue": "item_sku_6718056"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "CCDD2016夏装新款专柜正品假两件时尚短裤幻彩迷人裙裤",
+                    "country": "国内",
+                    "price": "75.60",
+                    "collectionCount": "563",
+                    "sales": "125",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1466604200,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/33/wKgBjVe1ceCAC2YmAADqdnTZd-M020.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "189.00",
+                    "id": "6856694",
+                    "trackValue": "item_sku_6856694"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "Westlink/西遇2016春款字母印花修身短裙针织连衣裙",
+                    "country": "国内",
+                    "price": "69.00",
+                    "collectionCount": "278",
+                    "sales": "64",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470675258,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/32/wKgBjVe1cd6AafPzAACfdK3bEyE650.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6306797",
+                        "collectionCount": "278"
+                    },
+                    "origin_price": "269.00",
+                    "id": "6306797",
+                    "trackValue": "item_sku_6306797"
+                },
+                "height": "470"
+            }
+        ],
+        "flag": "101526",
+        "appApi": "/items"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "GGSING时尚t恤",
+                    "country": "韩国",
+                    "price": "150.00",
+                    "collectionCount": "128",
+                    "sales": "400",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470152229,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/32/wKgBjVe1cd6AQ_K-AAF30SXIT70518.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "300.00",
+                    "id": "6699513",
+                    "trackValue": "item_sku_6699513"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "CCDD2016夏装新款正品女欧根纱烧花印花绣花衬衫淑女上衣",
+                    "country": "国内",
+                    "price": "91.60",
+                    "collectionCount": "450",
+                    "sales": "146",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1466604196,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/33/wKgBjVe1ceCAYTiiAAE1gypgipo763.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "229.00",
+                    "id": "6856697",
+                    "trackValue": "item_sku_6856697"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Lovinit2016夏百搭吊带连衣裙",
+                    "country": "韩国",
+                    "price": "251.10",
+                    "starCount": "3",
+                    "sales": "249",
+                    "componentType": "item",
+                    "collectionCount": "587",
+                    "eventIcon": "",
+                    "publish_date": 1470743724,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/2A/wKgBjFe1ceCAFXjYAAGXwMyK_kI307.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "558.00",
+                    "id": "6858135",
+                    "trackValue": "item_sku_6858135"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "ZZ大小姐2016春款韩版大花露肩荷叶袖宽松连衣裙",
+                    "country": "国内",
+                    "price": "158.00",
+                    "collectionCount": "709",
+                    "sales": "227",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1471017632,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/32/wKgBjVe1cd6ANLK3AAF1Y6-P_-M461.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "388.90",
+                    "id": "6525929",
+                    "trackValue": "item_sku_6525929"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "亿瑞儿2016夏季新款百褶圆领无袖显瘦雪纺连衣裙",
+                    "country": "国内",
+                    "price": "88.00",
+                    "collectionCount": "719",
+                    "sales": "80",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1465919698,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/2A/wKgBjFe1ceGAG_dIAACiw76032o374.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "298.00",
+                    "id": "6864469",
+                    "trackValue": "item_sku_6864469"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "Hotface无痕糖果色女瑜伽健身衣跑步透气美背式运动文胸罩",
+                    "country": "国内",
+                    "price": "68.00",
+                    "collectionCount": "135",
+                    "sales": "157",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1469814932,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/33/wKgBjVe1ceCAcoKkAAFo9cUyAk0777.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "169.00",
+                    "id": "6824650",
+                    "trackValue": "item_sku_6824650"
+                },
+                "height": "470"
+            },
+            {
+                "component": {
+                    "showTimeColor": "255,56,141,255",
+                    "monthOnly": "08",
+                    "showTime": "12:00",
+                    "dayColor": "85,85,85,255",
+                    "publishColor": "129,129,129,255",
+                    "month": "08/16",
+                    "componentType": "calendar",
+                    "monthColor": "129,129,129,255",
+                    "backgroundUrl": "",
+                    "weekDay": "周五",
+                    "year": "2016",
+                    "action": {},
+                    "weekDayBgUrl": "http://m6.pimg.cn/images/images/20130518/301d624c-cfc2-4467-956b-c9f7951de662.png",
+                    "weekDayColor": "129,129,129,255",
+                    "xingQi": "星期五",
+                    "day": "19"
+                }
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "CCDD2016夏装新款专柜正品欧根纱绣花包臀裙甜美花边摆裙",
+                    "country": "国内",
+                    "price": "91.60",
+                    "collectionCount": "606",
+                    "sales": "483",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1466604190,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/2A/wKgBjFe1ceCALTx2AADeCFoYbXE255.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "229.00",
+                    "id": "6856744",
+                    "trackValue": "item_sku_6856744"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "绮娑2016夏装新款胖妹妹大码女装韩版显瘦POLO领连衣裙潮",
+                    "country": "国内",
+                    "price": "199.00",
+                    "collectionCount": "1012",
+                    "sales": "88",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1468419361,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAHS5eAAC6Ekmbnn8504.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "429.00",
+                    "id": "6916371",
+                    "trackValue": "item_sku_6916371"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI新款韩版高腰直筒手工磨破毛边牛仔短裤热裤",
+                    "country": "国内",
+                    "price": "75.00",
+                    "starCount": "2",
+                    "sales": "258",
+                    "componentType": "item",
+                    "collectionCount": "135",
+                    "eventIcon": "",
+                    "publish_date": 1471256842,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAQKR6AADzWM79asY757.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "169.00",
+                    "id": "6921833",
+                    "trackValue": "item_sku_6921833"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "俏2016秋款红边拼色背心女士吊带简约中长款外穿针织上衣无袖",
+                    "country": "国内",
+                    "price": "119.00",
+                    "starCount": "3",
+                    "sales": "269",
+                    "componentType": "item",
+                    "collectionCount": "539",
+                    "eventIcon": "",
+                    "publish_date": 1470999716,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGAKk_2AAGOkOEwwng626.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "399.00",
+                    "id": "6905569",
+                    "trackValue": "item_sku_6905569"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "绮娑2016夏季新款大码女装胖妹妹纯色显瘦连衣裙胖mm潮",
+                    "country": "国内",
+                    "price": "198.00",
+                    "collectionCount": "323",
+                    "sales": "130",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1468420421,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGACMIhAAC33SW1c4s249.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "429.00",
+                    "id": "6916432",
+                    "trackValue": "item_sku_6916432"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "SSUNNY韩国夏季新款清纯蕾丝连衣裙",
+                    "country": "韩国",
+                    "price": "218.16",
+                    "starCount": "1",
+                    "sales": "453",
+                    "componentType": "item",
+                    "collectionCount": "622",
+                    "eventIcon": "",
+                    "publish_date": 1466161144,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/2A/wKgBjFe1ceCAR-LTAAD_M4dL_S4326.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "436.32",
+                    "id": "6857914",
+                    "trackValue": "item_sku_6857914"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI秋季新品宽松休闲bf条纹麻棉中长款衬衫衬衣上衣女",
+                    "country": "国内",
+                    "price": "89.00",
+                    "collectionCount": "439",
+                    "sales": "62",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470656579,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/35/wKgBjVe1ceKAYRpjAAEY_lwkuOs318.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "199.00",
+                    "id": "6953364",
+                    "trackValue": "item_sku_6953364"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI韩版百搭修身姐妹装圆领无袖背心打底上衣女",
+                    "country": "国内",
+                    "price": "55.00",
+                    "collectionCount": "453",
+                    "sales": "224",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1471104286,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/35/wKgBjVe1ceKAO-M3AADhYjpxWog592.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "169.00",
+                    "id": "6948505",
+                    "trackValue": "item_sku_6948505"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI2016夏季新款高腰显瘦牛仔A字半身裙短裙",
+                    "country": "国内",
+                    "price": "89.00",
+                    "starCount": "1",
+                    "sales": "381",
+                    "componentType": "item",
+                    "collectionCount": "822",
+                    "eventIcon": "",
+                    "publish_date": 1470993206,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/35/wKgBjVe1ceKAdjnPAAD9IYGzK1c337.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "399.00",
+                    "id": "6948511",
+                    "trackValue": "item_sku_6948511"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "榭都白底蓝色印花短款上衣 印花半身裙两件套套装2016夏女装",
+                    "country": "国内",
+                    "price": "219.00",
+                    "collectionCount": "144",
+                    "sales": "199",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1466071629,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAB5jyAAF1f5AanUM716.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "429.00",
+                    "id": "6868900",
+                    "trackValue": "item_sku_6868900"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "朋克状态2016夏装新品纯色蝴蝶结牛仔包臀裙",
+                    "country": "国内",
+                    "price": "119.00",
+                    "collectionCount": "607",
+                    "sales": "317",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470306397,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/35/wKgBjVe1ceGAMd0gAAEbXwX8bVs644.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "149.00",
+                    "id": "6948625",
+                    "trackValue": "item_sku_6948625"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI新款韩版休闲学院风百搭宽松白色背带裤短裤女装",
+                    "country": "国内",
+                    "price": "89.00",
+                    "starCount": "3",
+                    "sales": "213",
+                    "componentType": "item",
+                    "collectionCount": "537",
+                    "eventIcon": "",
+                    "publish_date": 1471256842,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGAF9UvAAEWH1g_efE265.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6921899",
+                        "collectionCount": "537"
+                    },
+                    "origin_price": "189.00",
+                    "id": "6921899",
+                    "trackValue": "item_sku_6921899"
+                },
+                "height": "470"
+            }
+        ],
+        "flag": "101508",
+        "appApi": "/items"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI2016早秋新款中长款宽松纯棉衬衫BF衬衣",
+                    "country": "国内",
+                    "price": "109.00",
+                    "collectionCount": "95",
+                    "sales": "414",
+                    "componentType": "item",
+                    "eventIcon": "http://s5.pimg.cn/group5/M00/12/37/wKgBfVetaQeAXEKcAAA2o4vKqeE092.png?imageMogr2/thumbnail/600x%3E/quality/95",
+                    "publish_date": 1471567004,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/2B/wKgBjFe1ceKAdipSAADVRyP06Oc169.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "499.00",
+                    "id": "6944433",
+                    "trackValue": "item_sku_6944433"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Digue 2016年夏季新款舒适宽松长款连衣裙",
+                    "country": "韩国",
+                    "price": "327.24",
+                    "collectionCount": "336",
+                    "sales": "209",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1467134794,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/2A/wKgBjFe1ceGAHCu_AACExgvox30015.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "654.48",
+                    "id": "6891392",
+                    "trackValue": "item_sku_6891392"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "VIVIDNCO2016夏款无袖印花淑女连衣裙",
+                    "country": "韩国",
+                    "price": "294.52",
+                    "starCount": "1",
+                    "sales": "411",
+                    "componentType": "item",
+                    "collectionCount": "1086",
+                    "eventIcon": "",
+                    "publish_date": 1467135051,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAb2SjAADSwMMmXf4763.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "420.74",
+                    "id": "6891416",
+                    "trackValue": "item_sku_6891416"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "仓森韩装2016夏装新款韩版条纹印花不规则底摆连衣裙开叉长裙",
+                    "country": "国内",
+                    "price": "151.00",
+                    "starCount": "1",
+                    "sales": "314",
+                    "componentType": "item",
+                    "collectionCount": "1016",
+                    "eventIcon": "",
+                    "publish_date": 1470674027,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/2A/wKgBjFe1ceCARavdAAHucqad55Q517.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "308.00",
+                    "id": "6829271",
+                    "trackValue": "item_sku_6829271"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "绮娑2016夏季大码女装胖妹妹夏装简约短袖T恤短裤三件套潮",
+                    "country": "国内",
+                    "price": "249.00",
+                    "starCount": "1",
+                    "sales": "478",
+                    "componentType": "item",
+                    "collectionCount": "698",
+                    "eventIcon": "",
+                    "publish_date": 1468421046,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGAQXfqAADcD9N2cBM346.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "499.00",
+                    "id": "6916509",
+                    "trackValue": "item_sku_6916509"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "MolaLuna2016春夏小清新印花棉质T恤",
+                    "country": "国内",
+                    "price": "85.00",
+                    "starCount": "3",
+                    "sales": "478",
+                    "componentType": "item",
+                    "collectionCount": "138",
+                    "eventIcon": "",
+                    "publish_date": 1470224508,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/32/wKgBjVe1cd6ARPHeAACm_V_YsGc058.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "259.00",
+                    "id": "6555580",
+                    "trackValue": "item_sku_6555580"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "Chartres 短袖宽松雪纺衫 2016夏新款百搭上衣女装",
+                    "country": "国内",
+                    "price": "199.00",
+                    "collectionCount": "694",
+                    "sales": "471",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1467380604,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAGAB-AADAjZLx_ik220.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "389.00",
+                    "id": "6896559",
+                    "trackValue": "item_sku_6896559"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "COMMON-UNIQUE-条纹时尚高领长袖t恤",
+                    "country": "韩国",
+                    "price": "265.72",
+                    "collectionCount": "507",
+                    "sales": "488",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470154071,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AKE-1AAEayCWhxkA790.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "265.72",
+                    "id": "5528909",
+                    "trackValue": "item_sku_5528909"
+                },
+                "height": "470"
+            },
+            {
+                "component": {
+                    "showTimeColor": "255,56,141,255",
+                    "monthOnly": "08",
+                    "showTime": "10:00",
+                    "dayColor": "85,85,85,255",
+                    "publishColor": "129,129,129,255",
+                    "month": "08/16",
+                    "componentType": "calendar",
+                    "monthColor": "129,129,129,255",
+                    "backgroundUrl": "",
+                    "weekDay": "周五",
+                    "year": "2016",
+                    "action": {},
+                    "weekDayBgUrl": "http://m1.pimg.cn/images/images/20130518/301d624c-cfc2-4467-956b-c9f7951de662.png",
+                    "weekDayColor": "129,129,129,255",
+                    "xingQi": "星期五",
+                    "day": "19"
+                }
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "榭都2016春季新品少女印花荷叶边连衣裙宽松显瘦短裙",
+                    "country": "国内",
+                    "price": "299.00",
+                    "collectionCount": "232",
+                    "sales": "305",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1468604824,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AB8nZAAGCaTQ5zWs228.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "649.00",
+                    "id": "6149470",
+                    "trackValue": "item_sku_6149470"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "榭都2016春季新款荷叶边大翻领雪纺衫打底衫清新学院风衬衫",
+                    "country": "国内",
+                    "price": "159.00",
+                    "starCount": "1",
+                    "sales": "441",
+                    "componentType": "item",
+                    "collectionCount": "995",
+                    "eventIcon": "",
+                    "publish_date": 1471542693,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AbzOzAAElOkp6mmk030.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "419.00",
+                    "id": "6149471",
+                    "trackValue": "item_sku_6149471"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "绮娑2016胖妹妹秋装大码女装显瘦T恤半身裙两件套加肥加大潮",
+                    "country": "国内",
+                    "price": "269.00",
+                    "collectionCount": "108",
+                    "sales": "93",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470765597,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/2B/wKgBjFe1ceKACsg0AACfI9weYpg996.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "569.00",
+                    "id": "6956800",
+                    "trackValue": "item_sku_6956800"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "榭都2016夏新款睫毛蕾丝圆领系带中裙浅蓝色白色连衣裙",
+                    "country": "国内",
+                    "price": "299.00",
+                    "starCount": "2",
+                    "sales": "430",
+                    "componentType": "item",
+                    "collectionCount": "229",
+                    "eventIcon": "",
+                    "publish_date": 1468604921,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/32/wKgBjVe1cd6AWoUVAAEohFSZ7l4560.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "569.00",
+                    "id": "6732263",
+                    "trackValue": "item_sku_6732263"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "Suresong2016 民族刺绣露肩连衣裙 大摆露背连衣裙",
+                    "country": "国内",
+                    "price": "399.00",
+                    "collectionCount": "557",
+                    "sales": "485",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1471541933,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAfYakAAEWmE_aKFY412.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "399.00",
+                    "id": "6925186",
+                    "trackValue": "item_sku_6925186"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "Westlink/西遇2016春款字母印花网纱拼接短袖T恤",
+                    "country": "国内",
+                    "price": "69.00",
+                    "collectionCount": "520",
+                    "sales": "390",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470675239,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/32/wKgBjVe1cd6APW6HAAEoUCeGFHk171.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "199.00",
+                    "id": "6137144",
+                    "trackValue": "item_sku_6137144"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "ELLPE时尚纯色短袖T恤",
+                    "country": "韩国",
+                    "price": "250.00",
+                    "starCount": "2",
+                    "sales": "226",
+                    "componentType": "item",
+                    "collectionCount": "464",
+                    "eventIcon": "",
+                    "publish_date": 1470151564,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/32/wKgBjVe1cd6AeH-sAAEJj9PooYE801.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "500.00",
+                    "id": "6698374",
+                    "trackValue": "item_sku_6698374"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "榭都女装 粉色蕾丝淑女气质七分袖连衣裙 系带流苏显瘦一步裙",
+                    "country": "国内",
+                    "price": "249.00",
+                    "collectionCount": "385",
+                    "sales": "60",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1471542926,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/35/wKgBjVe1ceGAHdHrAAD_ejC_8YQ846.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "449.00",
+                    "id": "6937419",
+                    "trackValue": "item_sku_6937419"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Vanillasecond时尚休闲套装",
+                    "country": "韩国",
+                    "price": "510.00",
+                    "collectionCount": "945",
+                    "sales": "249",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470152548,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/29/wKgBjFe1cd-AYyBvAADIyua4Th0558.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "1020.00",
+                    "id": "6750736",
+                    "trackValue": "item_sku_6750736"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI新品宽条纹宽松大码圆领休闲九分袖纯棉t恤短袖女",
+                    "country": "国内",
+                    "price": "99.00",
+                    "collectionCount": "277",
+                    "sales": "263",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470654474,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/2B/wKgBjFe1ceKAAXtIAAETFJfvd8c564.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6953192",
+                        "collectionCount": "277"
+                    },
+                    "origin_price": "189.00",
+                    "id": "6953192",
+                    "trackValue": "item_sku_6953192"
+                },
+                "height": "470"
+            }
+        ],
+        "flag": "101490",
+        "appApi": "/items"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Centsshop时尚短袖T恤",
+                    "country": "韩国",
+                    "price": "160.00",
+                    "starCount": "1",
+                    "sales": "189",
+                    "componentType": "item",
+                    "collectionCount": "387",
+                    "eventIcon": "",
+                    "publish_date": 1470153738,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AW82KAAEaDohgtaI849.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "320.00",
+                    "id": "6723897",
+                    "trackValue": "item_sku_6723897"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "vanillasecond韩版时尚短袖T恤",
+                    "country": "韩国",
+                    "price": "240.00",
+                    "starCount": "1",
+                    "sales": "280",
+                    "componentType": "item",
+                    "collectionCount": "1069",
+                    "eventIcon": "",
+                    "publish_date": 1470152644,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/32/wKgBjVe1cd6AaaIRAAEMrxH2VJg795.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "480.00",
+                    "id": "6701668",
+                    "trackValue": "item_sku_6701668"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "vanillasecond韩版时尚短袖T恤",
+                    "country": "韩国",
+                    "price": "250.00",
+                    "collectionCount": "982",
+                    "sales": "101",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470152644,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/32/wKgBjVe1cd6AbMIGAADE1NdFEQQ683.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "500.00",
+                    "id": "6701681",
+                    "trackValue": "item_sku_6701681"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "vanillasecond韩版时尚短袖T恤",
+                    "country": "韩国",
+                    "price": "250.00",
+                    "starCount": "1",
+                    "sales": "117",
+                    "componentType": "item",
+                    "collectionCount": "115",
+                    "eventIcon": "",
+                    "publish_date": 1470152663,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/32/wKgBjVe1cd6AS9o_AACyp-aFWvI084.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "500.00",
+                    "id": "6701700",
+                    "trackValue": "item_sku_6701700"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "西遇2016秋季新款 荷叶五分袖圆领套头修身打底女针织衫",
+                    "country": "国内",
+                    "price": "309.00",
+                    "collectionCount": "143",
+                    "sales": "498",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470675640,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAcRUVAADw67kPKIA817.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "309.00",
+                    "id": "6931023",
+                    "trackValue": "item_sku_6931023"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Ellpe时尚连衣裙",
+                    "country": "韩国",
+                    "price": "510.00",
+                    "collectionCount": "1077",
+                    "sales": "82",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470151555,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/33/wKgBjVe1cd-ABf8TAAFbYR-HlwU060.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "1020.00",
+                    "id": "6742068",
+                    "trackValue": "item_sku_6742068"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "COMMON-UNIQUE-条纹时尚针织衫",
+                    "country": "韩国",
+                    "price": "391.36",
+                    "collectionCount": "128",
+                    "sales": "475",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470154058,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/32/wKgBjVe1cd6ALr5pAAEQ2kvbOtU786.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "391.36",
+                    "id": "5528933",
+                    "trackValue": "item_sku_5528933"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Envylook印花时尚半身短裙",
+                    "country": "韩国",
+                    "price": "244.98",
+                    "starCount": "1",
+                    "sales": "222",
+                    "componentType": "item",
+                    "collectionCount": "575",
+                    "eventIcon": "",
+                    "publish_date": 1470150946,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AayznAAEg1Z6W5vA074.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "529.20",
+                    "id": "6699135",
+                    "trackValue": "item_sku_6699135"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "ENVYLOOK时尚条纹中袖T恤",
+                    "country": "韩国",
+                    "price": "72.68",
+                    "collectionCount": "1050",
+                    "sales": "81",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470150724,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AdXWFAADoKTFsgd4945.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "145.36",
+                    "id": "6698768",
+                    "trackValue": "item_sku_6698768"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI甜美纯色百搭小短款宽松流苏袖子边边个性短袖T恤",
+                    "country": "国内",
+                    "price": "68.00",
+                    "collectionCount": "253",
+                    "sales": "277",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1471104291,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/34/wKgBjVe1ceGATNGWAADOkZGWW-I547.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "169.00",
+                    "id": "6935807",
+                    "trackValue": "item_sku_6935807"
+                },
+                "height": "470"
+            },
+            {
+                "component": {
+                    "showTimeColor": "255,56,141,255",
+                    "monthOnly": "08",
+                    "showTime": "08:00",
+                    "dayColor": "85,85,85,255",
+                    "publishColor": "129,129,129,255",
+                    "month": "08/16",
+                    "componentType": "calendar",
+                    "monthColor": "129,129,129,255",
+                    "backgroundUrl": "",
+                    "weekDay": "周五",
+                    "year": "2016",
+                    "action": {},
+                    "weekDayBgUrl": "http://m3.pimg.cn/images/images/20130518/301d624c-cfc2-4467-956b-c9f7951de662.png",
+                    "weekDayColor": "129,129,129,255",
+                    "xingQi": "星期五",
+                    "day": "19"
+                }
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Loveloveme时尚短裙",
+                    "country": "韩国",
+                    "price": "170.00",
+                    "starCount": "1",
+                    "sales": "395",
+                    "componentType": "item",
+                    "collectionCount": "709",
+                    "eventIcon": "",
+                    "publish_date": 1470150490,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AA41zAAEVM2-zy2s299.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "340.00",
+                    "id": "6725335",
+                    "trackValue": "item_sku_6725335"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "ENVYLOOK韩版时尚衬衫",
+                    "country": "韩国",
+                    "price": "149.00",
+                    "collectionCount": "1102",
+                    "sales": "189",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470150850,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/28/wKgBjFe1cd6ADVdnAACDV-b_bH0089.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "298.00",
+                    "id": "6698838",
+                    "trackValue": "item_sku_6698838"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "Westlink/西遇2016春款潮字母印花中长款短袖连衣裙",
+                    "country": "国内",
+                    "price": "69.00",
+                    "starCount": "1",
+                    "sales": "125",
+                    "componentType": "item",
+                    "collectionCount": "146",
+                    "eventIcon": "",
+                    "publish_date": 1470675163,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/32/wKgBjVe1cd6ANtNPAAC1U2DEtTM273.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "199.00",
+                    "id": "6069233",
+                    "trackValue": "item_sku_6069233"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI2016秋季新款韩版女装七分袖条纹衬衫衬衣女",
+                    "country": "国内",
+                    "price": "109.00",
+                    "collectionCount": "163",
+                    "sales": "288",
+                    "componentType": "item",
+                    "eventIcon": "http://s6.pimg.cn/group5/M00/12/37/wKgBfVetaQeAXEKcAAA2o4vKqeE092.png?imageMogr2/thumbnail/600x%3E/quality/95",
+                    "publish_date": 1471634712,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGAcxeYAADEmUMyveE883.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "399.00",
+                    "id": "6941202",
+                    "trackValue": "item_sku_6941202"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI秋季新品学院风宽松显瘦V领七分袖高腰娃娃衫上衣女",
+                    "country": "国内",
+                    "price": "85.00",
+                    "collectionCount": "854",
+                    "sales": "256",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1471104286,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/2B/wKgBjFe1ceKACb7RAAE4HIOGxFQ112.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "189.00",
+                    "id": "6953338",
+                    "trackValue": "item_sku_6953338"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI初秋新品V领字母印花长袖T恤棉麻宽松打底衫卫衣女",
+                    "country": "国内",
+                    "price": "95.00",
+                    "starCount": "1",
+                    "sales": "324",
+                    "componentType": "item",
+                    "collectionCount": "715",
+                    "eventIcon": "",
+                    "publish_date": 1471104286,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/2B/wKgBjFe1ceKASw4nAAD1rIKDPSY940.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "199.00",
+                    "id": "6953478",
+                    "trackValue": "item_sku_6953478"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Envylook时尚短袖T恤",
+                    "country": "韩国",
+                    "price": "77.98",
+                    "collectionCount": "803",
+                    "sales": "216",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470150918,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/32/wKgBjVe1cd6AGPj_AAC4YA2WXBQ823.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "254.16",
+                    "id": "6699066",
+                    "trackValue": "item_sku_6699066"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Loveloveme时尚短袖T恤",
+                    "country": "韩国",
+                    "price": "150.00",
+                    "collectionCount": "182",
+                    "sales": "193",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470150458,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/29/wKgBjFe1cd-ALSewAAFoOt9Ky1c371.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6742023",
+                        "collectionCount": "182"
+                    },
+                    "origin_price": "300.00",
+                    "id": "6742023",
+                    "trackValue": "item_sku_6742023"
+                },
+                "height": "470"
+            }
+        ],
+        "flag": "101472",
+        "appApi": "/items"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Loveloveme时尚短袖T恤",
+                    "country": "韩国",
+                    "price": "140.00",
+                    "collectionCount": "644",
+                    "sales": "158",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470150458,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/33/wKgBjVe1cd-AEQhNAAEmYbgENtg883.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "280.00",
+                    "id": "6742025",
+                    "trackValue": "item_sku_6742025"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Loveloveme时尚牛仔裤",
+                    "country": "韩国",
+                    "price": "200.00",
+                    "collectionCount": "649",
+                    "sales": "91",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470150458,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/33/wKgBjVe1cd-ALuRzAAFyGEKI9oo765.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "400.00",
+                    "id": "6742029",
+                    "trackValue": "item_sku_6742029"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "VIVIDNCO2016夏款2色简约束腰连衣裙",
+                    "country": "韩国",
+                    "price": "323.64",
+                    "collectionCount": "103",
+                    "sales": "311",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470761546,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/35/wKgBjVe1ceKAEiNJAAEbrkceRPo859.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "462.34",
+                    "id": "6956610",
+                    "trackValue": "item_sku_6956610"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Ellpe字母经典短袖T恤",
+                    "country": "韩国",
+                    "price": "207.00",
+                    "starCount": "1",
+                    "sales": "244",
+                    "componentType": "item",
+                    "collectionCount": "146",
+                    "eventIcon": "",
+                    "publish_date": 1470151551,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/33/wKgBjVe1cd-AOyEkAAEcZUh9w08345.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "414.00",
+                    "id": "6821883",
+                    "trackValue": "item_sku_6821883"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Gaenso时尚T恤",
+                    "country": "韩国",
+                    "price": "250.00",
+                    "collectionCount": "865",
+                    "sales": "127",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470505513,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/32/wKgBjVe1cd6Abj5OAAHIhUG6pnI133.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "500.00",
+                    "id": "6633206",
+                    "trackValue": "item_sku_6633206"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Ggsing时尚t恤",
+                    "country": "韩国",
+                    "price": "133.20",
+                    "collectionCount": "1034",
+                    "sales": "80",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470152372,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/33/wKgBjVe1cd-Acy8HAAC9eTq8LO8326.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "266.40",
+                    "id": "6767511",
+                    "trackValue": "item_sku_6767511"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "贝琳嘉 2016夏装新款高腰包臀口袋开叉裙牛仔裙",
+                    "country": "国内",
+                    "price": "89.00",
+                    "starCount": "5",
+                    "sales": "169",
+                    "componentType": "item",
+                    "collectionCount": "432",
+                    "eventIcon": "",
+                    "publish_date": 1470736079,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/28/wKgBjFe1cd6AJxxwAAD-9HgUXVs073.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "178.00",
+                    "id": "6731052",
+                    "trackValue": "item_sku_6731052"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW-KAY7YVAAAGEdehimM962.png",
+                    "description": "Bluejuice 真丝V领印花无袖上衣B150524021",
+                    "country": "澳洲",
+                    "price": "299.00",
+                    "collectionCount": "1019",
+                    "sales": "222",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470764562,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/32/wKgBjVe1cd6AA0mjAAB39msBdas987.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "399.00",
+                    "id": "6734568",
+                    "trackValue": "item_sku_6734568"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW-KAY7YVAAAGEdehimM962.png",
+                    "description": "Bluejuice 撞色拼接无袖上衣B150524034",
+                    "country": "澳洲",
+                    "price": "269.00",
+                    "collectionCount": "747",
+                    "sales": "185",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470764385,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/33/wKgBjVe1cd-AejtCAAB0BZqc1IE219.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "729.00",
+                    "id": "6734576",
+                    "trackValue": "item_sku_6734576"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "榭都 蝴蝶结印花长袖衬衫 竖条纹娃娃领上衣女",
+                    "country": "国内",
+                    "price": "269.00",
+                    "collectionCount": "216",
+                    "sales": "385",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470650346,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/35/wKgBjVe1ceKAT5ijAADnYO4sXOU317.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "529.00",
+                    "id": "6948642",
+                    "trackValue": "item_sku_6948642"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "西遇2016夏款 假两件修身显瘦侧边开衩针织女连衣裙",
+                    "country": "国内",
+                    "price": "169.00",
+                    "collectionCount": "365",
+                    "sales": "408",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470675628,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/29/wKgBjFe1cd-ALe2aAABj9kwQKb0447.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "199.00",
+                    "id": "6797017",
+                    "trackValue": "item_sku_6797017"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "已售磬",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "晨品 2016秋冬韩版新款时尚尖头细跟优雅水钻高跟侧拉链女靴",
+                    "country": "国内",
+                    "price": "149.00",
+                    "collectionCount": "431",
+                    "sales": "324",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1471534598,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/35/wKgBjVe1ceKAVcG7AAD-vIV2gXw272.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "489.00",
+                    "id": "6954256",
+                    "trackValue": "item_sku_6954256"
+                },
+                "height": "470"
+            },
+            {
+                "component": {
+                    "showTimeColor": "255,56,141,255",
+                    "monthOnly": "08",
+                    "showTime": "06:00",
+                    "dayColor": "85,85,85,255",
+                    "publishColor": "129,129,129,255",
+                    "month": "08/16",
+                    "componentType": "calendar",
+                    "monthColor": "129,129,129,255",
+                    "backgroundUrl": "",
+                    "weekDay": "周五",
+                    "year": "2016",
+                    "action": {},
+                    "weekDayBgUrl": "http://m.pimg.cn/images/images/20130518/301d624c-cfc2-4467-956b-c9f7951de662.png",
+                    "weekDayColor": "129,129,129,255",
+                    "xingQi": "星期五",
+                    "day": "19"
+                }
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXBuAD6-mAAAEjKCwLsU224.png",
+                    "description": "日本ROYAL PARTY丝绸蝴蝶结肩带无袖连衣裙",
+                    "country": "日本",
+                    "price": "455.90",
+                    "collectionCount": "702",
+                    "sales": "140",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1468596586,
+                    "picUrl": "http://s0.pimg.cn/group5/M00/15/31/wKgBf1e1gFuAdCnjAAB3-OVehdA620.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "757.00",
+                    "id": "6845415",
+                    "trackValue": "item_sku_6845415"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Miss J Alexander 细带拼色尖头芭蕾平底鞋",
+                    "country": "英国",
+                    "price": "299.40",
+                    "starCount": "1",
+                    "sales": "151",
+                    "componentType": "item",
+                    "collectionCount": "1246",
+                    "eventIcon": "",
+                    "publish_date": 1467988890,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/29/wKgBjFe1cd-APEutAABmNRfHy3g550.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "499.00",
+                    "id": "6768711",
+                    "trackValue": "item_sku_6768711"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "尼西-2016夏新韩版棉麻印花显瘦高腰A字阔腿连体裤",
+                    "country": "国内",
+                    "price": "99.00",
+                    "collectionCount": "1152",
+                    "sales": "127",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1467914100,
+                    "picUrl": "http://s2.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAQ4msAADH2fbgjpU799.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "142.00",
+                    "id": "6892351",
+                    "trackValue": "item_sku_6892351"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "GODDIVA灰色不规则裙摆连衣裙",
+                    "country": "英国",
+                    "price": "359.00",
+                    "starCount": "1",
+                    "sales": "480",
+                    "componentType": "item",
+                    "collectionCount": "205",
+                    "eventIcon": "",
+                    "publish_date": 1467988211,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAGBQWAABuGOSWiZg376.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "599.00",
+                    "id": "6901903",
+                    "trackValue": "item_sku_6901903"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXBuAD6-mAAAEjKCwLsU224.png",
+                    "description": "日本ROYAL PARTY八分阔腿裤",
+                    "country": "日本",
+                    "price": "225.06",
+                    "starCount": "3",
+                    "sales": "121",
+                    "componentType": "item",
+                    "collectionCount": "673",
+                    "eventIcon": "",
+                    "publish_date": 1468597231,
+                    "picUrl": "http://s4.pimg.cn/group5/M00/15/31/wKgBf1e1gFuATHRKAACN0Wnmt4g663.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "372.00",
+                    "id": "6845425",
+                    "trackValue": "item_sku_6845425"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXBuAD6-mAAAEjKCwLsU224.png",
+                    "description": "日本MIIA包肩拼接连衣裙",
+                    "country": "日本",
+                    "price": "383.40",
+                    "collectionCount": "1163",
+                    "sales": "138",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1468596826,
+                    "picUrl": "http://s5.pimg.cn/group5/M00/15/31/wKgBf1e1gFuALRwWAAB_CvW4PpQ695.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_6845381",
+                        "collectionCount": "1163"
+                    },
+                    "origin_price": "694.00",
+                    "id": "6845381",
+                    "trackValue": "item_sku_6845381"
+                },
+                "height": "470"
+            }
+        ],
+        "flag": "101454",
+        "appApi": "/items"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "items": [
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXBuAD6-mAAAEjKCwLsU224.png",
+                    "description": "日本ROYAL PARTY花纹图案抹胸连衣裙",
+                    "country": "日本",
+                    "price": "300.75",
+                    "starCount": "1",
+                    "sales": "421",
+                    "componentType": "item",
+                    "collectionCount": "577",
+                    "eventIcon": "",
+                    "publish_date": 1468596764,
+                    "picUrl": "http://s3.pimg.cn/group5/M00/13/43/wKgBfVe1gFuAJhknAAEderb3xQA197.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "498.00",
+                    "id": "6845424",
+                    "trackValue": "item_sku_6845424"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "GODDIVA海军蓝鱼尾长裙",
+                    "country": "英国",
+                    "price": "299.00",
+                    "collectionCount": "412",
+                    "sales": "220",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470756652,
+                    "picUrl": "http://s4.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGAYBxPAABoLDxtARY614.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "499.00",
+                    "id": "6901907",
+                    "trackValue": "item_sku_6901907"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Yumi仙人掌印花黑色连衣裙",
+                    "country": "英国",
+                    "price": "419.40",
+                    "starCount": "1",
+                    "sales": "200",
+                    "componentType": "item",
+                    "collectionCount": "1146",
+                    "eventIcon": "",
+                    "publish_date": 1466179434,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/29/wKgBjFe1cd-ALqhNAAC8G52Pf_s908.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "699.00",
+                    "id": "6740291",
+                    "trackValue": "item_sku_6740291"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXBuAD6-mAAAEjKCwLsU224.png",
+                    "description": "日本MIIA扇形蕾丝花边喇叭袖上衣",
+                    "country": "日本",
+                    "price": "143.87",
+                    "collectionCount": "694",
+                    "sales": "111",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1468596485,
+                    "picUrl": "http://s6.pimg.cn/group5/M00/13/42/wKgBfVe1gFuANWWSAAB8rjtBX10638.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "372.00",
+                    "id": "6845375",
+                    "trackValue": "item_sku_6845375"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Collectif女款彩色格纹阔摆半身裙",
+                    "country": "英国",
+                    "price": "324.00",
+                    "starCount": "1",
+                    "sales": "189",
+                    "componentType": "item",
+                    "collectionCount": "446",
+                    "eventIcon": "",
+                    "publish_date": 1467988679,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/29/wKgBjFe1ceCAFHEgAADhZb9jo0g487.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "729.00",
+                    "id": "6793722",
+                    "trackValue": "item_sku_6793722"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Yumi打褶蓝色短袖连衣裙",
+                    "country": "英国",
+                    "price": "315.00",
+                    "collectionCount": "677",
+                    "sales": "331",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1466179403,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/33/wKgBjVe1cd-AIbwxAACXfIy8Agw612.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "525.00",
+                    "id": "6740045",
+                    "trackValue": "item_sku_6740045"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXBuAD6-mAAAEjKCwLsU224.png",
+                    "description": "日本ROYAL PARTY斜纹织牛仔珍珠连衣裙",
+                    "country": "日本",
+                    "price": "376.43",
+                    "collectionCount": "917",
+                    "sales": "314",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1468596416,
+                    "picUrl": "http://s1.pimg.cn/group6/M00/55/33/wKgBjVe1ceCAMdpuAAB87qXT26M551.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "624.00",
+                    "id": "6845396",
+                    "trackValue": "item_sku_6845396"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXBuAD6-mAAAEjKCwLsU224.png",
+                    "description": "日本ROYAL PARTY向日葵印花荷叶短裙",
+                    "country": "日本",
+                    "price": "262.90",
+                    "collectionCount": "1166",
+                    "sales": "474",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1468596465,
+                    "picUrl": "http://s2.pimg.cn/group5/M00/13/42/wKgBfVe1gFuADFwwAACF5FD0XSM611.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "435.00",
+                    "id": "6845398",
+                    "trackValue": "item_sku_6845398"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Yumi斑点印花蓝色连体裤",
+                    "country": "英国",
+                    "price": "243.00",
+                    "starCount": "1",
+                    "sales": "188",
+                    "componentType": "item",
+                    "collectionCount": "131",
+                    "eventIcon": "",
+                    "publish_date": 1470756338,
+                    "picUrl": "http://s3.pimg.cn/group6/M00/55/33/wKgBjVe1cd-AR1TBAAC2BfzvGbA488.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "405.00",
+                    "id": "6740040",
+                    "trackValue": "item_sku_6740040"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXBuAD6-mAAAEjKCwLsU224.png",
+                    "description": "日本MIIA无袖牛仔毛边连衣裙",
+                    "country": "日本",
+                    "price": "300.75",
+                    "starCount": "2",
+                    "sales": "130",
+                    "componentType": "item",
+                    "collectionCount": "152",
+                    "eventIcon": "",
+                    "publish_date": 1468596535,
+                    "picUrl": "http://s4.pimg.cn/group5/M00/15/31/wKgBf1e1gFuAK0_eAACjteSebj0705.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "498.00",
+                    "id": "6845400",
+                    "trackValue": "item_sku_6845400"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "GODDIVA红色多层连衣裙",
+                    "country": "英国",
+                    "price": "299.00",
+                    "collectionCount": "404",
+                    "sales": "399",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1467988385,
+                    "picUrl": "http://s5.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAaAaeAADmrK3NDT4351.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "499.00",
+                    "id": "6901912",
+                    "trackValue": "item_sku_6901912"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "Miss J Alexander 细带金色尖头中跟鞋",
+                    "country": "英国",
+                    "price": "419.40",
+                    "collectionCount": "184",
+                    "sales": "292",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1467374552,
+                    "picUrl": "http://s6.pimg.cn/group6/M00/55/33/wKgBjVe1cd-ALLyBAABhqOn-C5k318.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "699.00",
+                    "id": "6768723",
+                    "trackValue": "item_sku_6768723"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxW_WAf-CNAAAGcPFWBGk024.png",
+                    "description": "GODDIVA黑色短袖连衣裙",
+                    "country": "英国",
+                    "price": "287.00",
+                    "starCount": "1",
+                    "sales": "481",
+                    "componentType": "item",
+                    "collectionCount": "128",
+                    "eventIcon": "",
+                    "publish_date": 1470756526,
+                    "picUrl": "http://s.pimg.cn/group6/M00/55/34/wKgBjVe1ceGAFP-1AAClz35twKI610.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "479.00",
+                    "id": "6901900",
+                    "trackValue": "item_sku_6901900"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "TTCOLOR黑白色时尚条纹经典喇叭袖上衣",
+                    "country": "国内",
+                    "price": "155.00",
+                    "collectionCount": "436",
+                    "sales": "438",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1468488273,
+                    "picUrl": "http://s0.pimg.cn/group6/M00/55/2B/wKgBjFe1ceGAN8TYAAEO2Mj60aI519.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "259.00",
+                    "id": "6910727",
+                    "trackValue": "item_sku_6910727"
+                },
+                "height": "470"
+            },
+            {
+                "component": {
+                    "showTimeColor": "255,56,141,255",
+                    "monthOnly": "08",
+                    "showTime": "22:00",
+                    "dayColor": "85,85,85,255",
+                    "publishColor": "129,129,129,255",
+                    "month": "08/16",
+                    "componentType": "calendar",
+                    "monthColor": "129,129,129,255",
+                    "backgroundUrl": "",
+                    "weekDay": "周四",
+                    "year": "2016",
+                    "action": {},
+                    "weekDayBgUrl": "http://m3.pimg.cn/images/images/20130518/301d624c-cfc2-4467-956b-c9f7951de662.png",
+                    "weekDayColor": "129,129,129,255",
+                    "xingQi": "星期四",
+                    "day": "18"
+                }
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Lovinit时尚连衣裙",
+                    "country": "韩国",
+                    "price": "288.00",
+                    "collectionCount": "883",
+                    "sales": "345",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470743582,
+                    "picUrl": "http://s1.pimg.cn/group5/M00/11/D0/wKgBfVeq9g-AH4Q1AACoyDcGymc769.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "640.00",
+                    "id": "6700666",
+                    "trackValue": "item_sku_6700666"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group6/M00/B9/79/wKgBjFXxXCKAYGiAAAAEURJy0M4061.png",
+                    "description": "KANAMI蝙蝠袖打底上衣彩色纽扣条纹翻领衬衫",
+                    "country": "国内",
+                    "price": "79.00",
+                    "collectionCount": "545",
+                    "sales": "249",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470640817,
+                    "picUrl": "http://s2.pimg.cn/group5/M00/11/D4/wKgBfVeq9hOAJEBtAAFn_HkwPVw440.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "399.00",
+                    "id": "6941715",
+                    "trackValue": "item_sku_6941715"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "Lovinit时尚短裙",
+                    "country": "韩国",
+                    "price": "250.00",
+                    "collectionCount": "548",
+                    "sales": "219",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470923995,
+                    "picUrl": "http://s3.pimg.cn/group5/M00/13/BF/wKgBf1eq9g-AQ39lAADbJ_jNsqg593.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "500.00",
+                    "id": "6700679",
+                    "trackValue": "item_sku_6700679"
+                },
+                "height": "470"
+            },
+            {
+                "width": "366",
+                "component": {
+                    "stateMessage": "",
+                    "nationalFlag": "http://s0.pimg.cn/group5/M00/7B/13/wKgBfVXxXBaARKCAAAAHATnpCII797.png",
+                    "description": "common unique小挎包",
+                    "country": "韩国",
+                    "price": "187.95",
+                    "collectionCount": "660",
+                    "sales": "318",
+                    "componentType": "item",
+                    "eventIcon": "",
+                    "publish_date": 1470153176,
+                    "picUrl": "http://s4.pimg.cn/group5/M00/11/D0/wKgBfVeq9g6AItMKAAEwpMCSaqU666.jpg?imageMogr2/thumbnail/320x%3E",
+                    "action": {
+                        "main_image": 0,
+                        "actionType": "FAKE",
+                        "trackValue": "item_sku_5386469",
+                        "collectionCount": "660"
+                    },
+                    "origin_price": "376.00",
+                    "id": "5386469",
+                    "trackValue": "item_sku_5386469"
+                },
+                "height": "470"
+            }
+        ],
+        "flag": "101436",
+        "appApi": "/items"
+    }
+}

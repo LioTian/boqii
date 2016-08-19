@@ -1,0 +1,3101 @@
+{
+    "message": "",
+    "data": {
+        "lts": "1471572000.0",
+        "items": [
+            {
+                "component": {
+                    "title": "CHANCE-ON限时折扣专场",
+                    "expires": "309199",
+                    "peopleCount": "4451",
+                    "componentType": "tuanCell",
+                    "discount": "全场4折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group6/M00/53/3F/wKgBjVeoQteAONhkAAL9kPGs5cQ615.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "CHANCE-ON限时折扣专场",
+                        "title": "CHANCE-ON限时折扣专场",
+                        "expires": "309199",
+                        "peopleCount": "4451",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group6/M00/53/36/wKgBjFeoQuCAYPzkAAL9kPGs5cQ386.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1939",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1939",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "纤慕8月团购特惠专场",
+                    "expires": "309199",
+                    "peopleCount": "1306",
+                    "componentType": "tuanCell",
+                    "discount": "全场2折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group5/M00/11/B3/wKgBfVeqxjeARfIJAAKlWbU7O88785.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "【纤慕】即时特惠专场，全场2折起，快来抢购吧~",
+                        "title": "纤慕8月团购特惠专场",
+                        "expires": "309199",
+                        "peopleCount": "1306",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group5/M00/11/B3/wKgBfVeqxjuALKgbAAKlWbU7O88982.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1953",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1953",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "秋壳女装周年庆",
+                    "expires": "309199",
+                    "peopleCount": "2249",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/15/01/wKgBf1e0MemAUcMJAAPmcUXRhQQ104.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "秋売是少女梦想的乌托邦，在秋売天马行空的世界里少女们可以自由驰骋，用童真的眼睛追逐世界与梦想，通过混搭展现敢梦敢闯、个性十足的自己",
+                        "title": "秋壳女装周年庆",
+                        "expires": "309199",
+                        "peopleCount": "2249",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/15/01/wKgBf1e0MeuACyfIAAPmcUXRhQQ103.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1968",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1968",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "KANAMI夏季团购",
+                    "expires": "222799",
+                    "peopleCount": "3528",
+                    "componentType": "tuanCell",
+                    "discount": "全场49元起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/13/32/wKgBf1eoPoeAHMS_AAF2IkzM6OE685.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "【KANAMI】专注韩版学院派精品，女装爆款系甜美小清新，原创设计，全场实拍，每周海量上新。",
+                        "title": "KANAMI夏季团购",
+                        "expires": "222799",
+                        "peopleCount": "3528",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group5/M00/13/32/wKgBf1eoPnuAOoTUAAIbqoMlmPA554.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1938",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1938",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "IKEWA夏末限时抢购",
+                    "expires": "222799",
+                    "peopleCount": "2167",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group5/M00/12/C2/wKgBfVeykiiAQdpnAATl9LsMfzE664.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "IKEWA引领韩国配饰潮流时尚风向标",
+                        "title": "IKEWA夏末限时抢购",
+                        "expires": "222799",
+                        "peopleCount": "2167",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group5/M00/12/C2/wKgBfVeykjaADHODAATl9LsMfzE437.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1966",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1966",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "Lovin-it 夏季新品团购促销",
+                    "expires": "136399",
+                    "peopleCount": "1794",
+                    "componentType": "tuanCell",
+                    "discount": "最低3折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group6/M00/53/5E/wKgBjVepUTSAGfP9AAJG61SwkhA713.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "时尚淑女名媛风，带你引领夏季潮流",
+                        "title": "Lovin-it 夏季新品团购促销",
+                        "expires": "136399",
+                        "peopleCount": "1794",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group6/M00/53/5E/wKgBjVepUS-AbpFHAAJG61SwkhA583.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1943",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1943",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "尼西韩国时装特惠专场",
+                    "expires": "136399",
+                    "peopleCount": "1710",
+                    "componentType": "tuanCell",
+                    "discount": "全场4.9折起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group6/M00/53/91/wKgBjFeqnbeABGUjAAOyrwL2SkE202.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "尼西韩国时装折扣特惠，更有无门槛满减，快来抢购吧",
+                        "title": "尼西韩国时装特惠专场",
+                        "expires": "136399",
+                        "peopleCount": "1710",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group6/M00/53/91/wKgBjFeqnheATVlFAAOyrwL2SkE411.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1952",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1952",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "柚子美衣团购专场",
+                    "expires": "136399",
+                    "peopleCount": "2069",
+                    "componentType": "tuanCell",
+                    "discount": "29元起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/14/23/wKgBf1etZFmAGQ9NAAK747p8fLg621.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "柚子美衣主营快时尚女装，定位清新实用百搭，倡导独立、自信、时尚，为亲们提供高性价比的时尚潮流服饰。",
+                        "title": "柚子美衣团购专场",
+                        "expires": "136399",
+                        "peopleCount": "2069",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group5/M00/14/23/wKgBf1etZFuAUoPCAAK747p8fLg503.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1959",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1959",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "Glamorous团购专场",
+                    "expires": "49999",
+                    "peopleCount": "1853",
+                    "componentType": "tuanCell",
+                    "discount": "2.6折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group5/M00/12/A8/wKgBfVexfSGAVrKnAAMCQWZNwbs668.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "Glamorous团购专场，助你晋级时尚ICON!2.6折起，快来抢购吧~",
+                        "title": "Glamorous团购专场",
+                        "expires": "49999",
+                        "peopleCount": "1853",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group5/M00/12/A8/wKgBfVexfSSAZ-gxAAMCQWZNwbs187.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1963",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1963",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "zz大小姐秋装特卖专场",
+                    "expires": "-36401",
+                    "peopleCount": "1667",
+                    "componentType": "tuanCell",
+                    "discount": "2折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group6/M00/54/3A/wKgBjVetfAeAdkgbAAIcZt-rdcc893.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "让每个人都住在自己理想的衣服里，享受一流品质，体会到真正的性价比的潮流女装",
+                        "title": "zz大小姐秋装特卖专场",
+                        "expires": "-36401",
+                        "peopleCount": "1667",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group5/M00/14/2D/wKgBf1etfAuAGO8JAAIcZt-rdcc203.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1960",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1960",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "森宿女装特卖专场",
+                    "expires": "-122201",
+                    "peopleCount": "1763",
+                    "componentType": "tuanCell",
+                    "discount": "2折起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/14/45/wKgBf1etmzyARmcZAAM3h_O7-t0529.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "清新、独立、念旧，像设计一件衣服一样，与气息相投的你，一起记录生活的每一寸精彩。",
+                        "title": "森宿女装特卖专场",
+                        "expires": "-122201",
+                        "peopleCount": "1763",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/14/46/wKgBf1etmz2AR6riAAM3h_O7-t0507.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1962",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1962",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "梵韵团购特价折扣",
+                    "expires": "-122801",
+                    "peopleCount": "2231",
+                    "componentType": "tuanCell",
+                    "discount": "全场6折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/11/30/wKgBfVeoHymABpf0AAJ591ZT7HY373.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "即时专场，助你晋级时尚ICON！全场6折起，快来抢购吧~",
+                        "title": "梵韵团购特价折扣",
+                        "expires": "-122801",
+                        "peopleCount": "2231",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group5/M00/11/30/wKgBfVeoHy2ABy9YAAJ591ZT7HY028.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1937",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1937",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "西遇服饰品牌团购",
+                    "expires": "-122801",
+                    "peopleCount": "2554",
+                    "componentType": "tuanCell",
+                    "discount": "49元起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group6/M00/53/3C/wKgBjFeoRnuANjiwAARp04_xt-U570.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "在Westlink西遇的店铺里，你可以从头到脚，找到适合你的各类服饰配饰，并以此展现你人生中最美好的一刻",
+                        "title": "西遇服饰品牌团购",
+                        "expires": "-122801",
+                        "peopleCount": "2554",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group5/M00/13/35/wKgBf1eoRaaANA1JAARp04_xt-U817.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1940",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1940",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "【Miss Patina】福利来袭",
+                    "expires": "-209201",
+                    "peopleCount": "1902",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group6/M00/53/F1/wKgBjFesNXKAfCWGAAL_Uf2g6sg980.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "英国原创设计品牌【Miss Patina】团购专场，助你晋级时尚ICON! 夏装福利，4折来袭，快来抢购吧~",
+                        "title": "【Miss Patina】福利来袭",
+                        "expires": "-209201",
+                        "peopleCount": "1902",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group6/M00/53/F1/wKgBjFesNXOAWag4AAL_Uf2g6sg046.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1957",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1957",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "俏八月团购",
+                    "expires": "-209201",
+                    "peopleCount": "2686",
+                    "componentType": "tuanCell",
+                    "discount": "299减30499减60",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/14/16/wKgBf1etOGGAA-dSAARxmfnJmTE731.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "作为小欧美风的始作俑者，CIAO!DAFANFAN 俏 从未停止去解决欧美设计与亚洲版型之间与生俱来的冲突感，去打破高级时装与平价消费之间无法统一的定律，创造更适合亚洲人身材与性格的平价奢侈时装。",
+                        "title": "俏八月团购",
+                        "expires": "-209201",
+                        "peopleCount": "2686",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/14/16/wKgBf1etOGWAa1N6AARxmfnJmTE363.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1958",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1958",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "艾妃莎年中女装特卖",
+                    "expires": "-209201",
+                    "peopleCount": "2640",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/12/41/wKgBfVetf-SAQfshAALhxdkRNIY073.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "AFLSE为您推出了当下最时尚的时装。花枝招展的艺术渲染力，宣泄出势不可挡的时尚正能量，充满跃动感的色彩设计，饶富趣味的时髦元素，为你的无限春光更添明媚。",
+                        "title": "艾妃莎年中女装特卖",
+                        "expires": "-209201",
+                        "peopleCount": "2640",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group5/M00/12/41/wKgBfVetf-qAHW5IAALhxdkRNIY726.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1961",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1961",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "STYLENANDA限时折扣专场",
+                    "expires": "-295601",
+                    "peopleCount": "2308",
+                    "componentType": "tuanCell",
+                    "discount": "8折",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group6/M00/52/76/wKgBjFei8XaAc_njAAMW_mI0hTE295.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "STYLENANDA限时折扣专场",
+                        "title": "STYLENANDA限时折扣专场",
+                        "expires": "-295601",
+                        "peopleCount": "2308",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group6/M00/52/76/wKgBjFei8XiACatsAAMW_mI0hTE382.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1929",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1929",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "Junystyle团购专场",
+                    "expires": "-295601",
+                    "peopleCount": "2432",
+                    "componentType": "tuanCell",
+                    "discount": "全场7折",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group6/M00/53/C2/wKgBjVeq7haAKz4kAAIPt0xuSos433.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "Junystyle团购专场，纵享韩风美履，全场7折~",
+                        "title": "Junystyle团购专场",
+                        "expires": "-295601",
+                        "peopleCount": "2432",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group6/M00/53/C2/wKgBjVeq7h-ASCyqAAIPt0xuSos336.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1955",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1955",
+                    "tuanState": "已结束"
+                }
+            }
+        ],
+        "flag": "18",
+        "appApi": "/tuanlist",
+        "has_starting": "1"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "lts": "1471572000.0",
+        "items": [
+            {
+                "component": {
+                    "title": "CC&DD品牌特卖专场",
+                    "expires": "-382015",
+                    "peopleCount": "2836",
+                    "componentType": "tuanCell",
+                    "discount": "68元起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/10/7B/wKgBfVei42WAc3YKAALLsybaI60481.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "CC&DD诞生于1982年，秉承了“平价时装”的品牌理念，将时装世界化、大众化，把时尚的触角延伸至每一个热爱时尚的年轻人。\"",
+                        "title": "CC&DD品牌特卖专场",
+                        "expires": "-382015",
+                        "peopleCount": "2836",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group5/M00/10/7B/wKgBfVei42aAJtOqAALLsybaI60423.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1928",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1928",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "Bluejuice团购专场",
+                    "expires": "-382015",
+                    "peopleCount": "2416",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group6/M00/53/7A/wKgBjFepnmiAUzv-AAIHjr-7XH0290.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "Bluejuice团购专场，助你晋级时尚ICON! 1折起，快来抢购吧~",
+                        "title": "Bluejuice团购专场",
+                        "expires": "-382015",
+                        "peopleCount": "2416",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group6/M00/53/7A/wKgBjFepnmuAOe2uAAIHjr-7XH0552.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1949",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1949",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "Michael Kors专场",
+                    "expires": "-382015",
+                    "peopleCount": "2693",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group5/M00/13/83/wKgBf1epp4-AbbwxAAIL8igBGJ4900.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "Michael Kors专场3折起，快来抢购吧~",
+                        "title": "Michael Kors专场",
+                        "expires": "-382015",
+                        "peopleCount": "2693",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group5/M00/13/83/wKgBf1epp4SAYW6AAAIL8igBGJ4370.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1951",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1951",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "蓝道夫品牌首次品牌团",
+                    "expires": "-468385",
+                    "peopleCount": "2215",
+                    "componentType": "tuanCell",
+                    "discount": "7折起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group6/M00/53/58/wKgBjFepUYmAHtaUAAKNJaNFzfc212.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "蓝道夫创立于1993年，手工缝制是蓝道夫的特色，舒适耐穿、品味独到。舒适、休闲、物超所值是品牌不变的宗旨。",
+                        "title": "蓝道夫品牌首次品牌团",
+                        "expires": "-468385",
+                        "peopleCount": "2215",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group6/M00/53/58/wKgBjFepUYuASKy_AAKNJaNFzfc063.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1944",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1944",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "自由呼吸品牌特卖汇",
+                    "expires": "-468415",
+                    "peopleCount": "2866",
+                    "componentType": "tuanCell",
+                    "discount": "5折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group6/M00/53/49/wKgBjVeoUFuAD5sjAAKDJO-Ti44054.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "自由呼吸在设计一种全新的生活方式，强调于运动中领悟生命的得失，感受活动、健康，理解自由奔放的生活精神。",
+                        "title": "自由呼吸品牌特卖汇",
+                        "expires": "-468415",
+                        "peopleCount": "2866",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group6/M00/53/3F/wKgBjFeoUF2AcwpSAAKDJO-Ti44037.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1941",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1941",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "BACKS+F i.n.t",
+                    "expires": "-468415",
+                    "peopleCount": "1979",
+                    "componentType": "tuanCell",
+                    "discount": "全场5折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group5/M00/11/86/wKgBfVepivuAQOfXAAJYOQf7_CI797.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "当日本中性洒脱风BACKS遇上清新田园风F i.nt，会碰撞吃怎样的火花呢，快来看看吧~",
+                        "title": "BACKS+F i.n.t",
+                        "expires": "-468415",
+                        "peopleCount": "1979",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group5/M00/11/86/wKgBfVepiveARF_KAAJYOQf7_CI116.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1947",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1947",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "梭格女装品牌首次团购",
+                    "expires": "-554815",
+                    "peopleCount": "2450",
+                    "componentType": "tuanCell",
+                    "discount": "满299减50",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group6/M00/52/E4/wKgBjFekVLuASbDzAATeGUzFceY487.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "全场现售价的7折起，满299减50",
+                        "title": "梭格女装品牌首次团购",
+                        "expires": "-554815",
+                        "peopleCount": "2450",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group6/M00/52/E4/wKgBjFekVL-APCgDAATeGUzFceY751.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1934",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1934",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "线下体验店欧美区",
+                    "expires": "-554815",
+                    "peopleCount": "2448",
+                    "componentType": "tuanCell",
+                    "discount": "6折起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/11/82/wKgBfVepgfSAaa8MAAM7eUj4L6U340.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "去不了明星衣橱线下体验店，那就线上来购买...特惠专场，助你晋级时尚ICON! 6折起，快来抢购吧~",
+                        "title": "线下体验店欧美区",
+                        "expires": "-554815",
+                        "peopleCount": "2448",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/11/82/wKgBfVepgfyAd0OfAAM7eUj4L6U565.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1946",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1946",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "手表集合",
+                    "expires": "-641215",
+                    "peopleCount": "2738",
+                    "componentType": "tuanCell",
+                    "discount": "8折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/0A/20/wKgBfVeEkQ-AOrzUAANWftLTiU4226.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "手表集合 大牌全线8折起 机会不容错过",
+                        "title": "手表集合",
+                        "expires": "-641215",
+                        "peopleCount": "2738",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group5/M00/0A/20/wKgBfVeEkRGATLTRAANWftLTiU4758.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1858",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1858",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "蜜思唯尔女装特卖专场",
+                    "expires": "-641215",
+                    "peopleCount": "1938",
+                    "componentType": "tuanCell",
+                    "discount": "9折",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group6/M00/52/4E/wKgBjFein-mATA5MAAPhxcNx8Wg844.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "蜜思唯尔女装特卖专场，全场49元起，快来抢购吧~",
+                        "title": "蜜思唯尔女装特卖专场",
+                        "expires": "-641215",
+                        "peopleCount": "1938",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group6/M00/52/4E/wKgBjFein-2AEJb5AAPhxcNx8Wg894.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1927",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1927",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "榭都女装特卖专场",
+                    "expires": "-641215",
+                    "peopleCount": "2458",
+                    "componentType": "tuanCell",
+                    "discount": "1折",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group6/M00/53/1E/wKgBjVen5i6AESjgAAHsOw9gtJs718.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "“青名媛，重工艺”-新锐设计师品牌 新锐设计师品牌CHARTRES榭都",
+                        "title": "榭都女装特卖专场",
+                        "expires": "-641215",
+                        "peopleCount": "2458",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group6/M00/53/1E/wKgBjVen5jGAdQDzAAHsOw9gtJs298.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1936",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1936",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "柯玛妮克8月品牌团",
+                    "expires": "-727599",
+                    "peopleCount": "2181",
+                    "componentType": "tuanCell",
+                    "discount": "19.9元起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/12/DD/wKgBf1ekTH-AdwnRAAHCYyCToYY369.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "KOMANIC柯玛妮克为广州柯玛妮克鞋业有限公司自有女鞋品牌",
+                        "title": "柯玛妮克8月品牌团",
+                        "expires": "-727599",
+                        "peopleCount": "2181",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/12/DD/wKgBf1ekTIGAB-SFAAHCYyCToYY017.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1933",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1933",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "裂帛女装团购专场",
+                    "expires": "-727615",
+                    "peopleCount": "2853",
+                    "componentType": "tuanCell",
+                    "discount": "全场1折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/12/E7/wKgBf1ekZniAbtOWAAKwRBpEfeE205.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "全场1折起，满299减20   满599减50",
+                        "title": "裂帛女装团购专场",
+                        "expires": "-727615",
+                        "peopleCount": "2853",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group5/M00/12/E7/wKgBf1ekZoGAKXqaAAKwRBpEfeE895.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1935",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1935",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "IKEWA特卖专场",
+                    "expires": "-810682",
+                    "peopleCount": "2392",
+                    "componentType": "tuanCell",
+                    "discount": "1.9折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group6/M00/52/10/wKgBjFehcSKAGhQ8AANq0ZzmZVA257.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "IKEWA引领韩国配饰潮流风向标",
+                        "title": "IKEWA特卖专场",
+                        "expires": "-810682",
+                        "peopleCount": "2392",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group6/M00/52/10/wKgBjFehcSiAeZUfAANq0ZzmZVA714.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1925",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1925",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "HELLOSWEETY新款折扣团",
+                    "expires": "-814015",
+                    "peopleCount": "2900",
+                    "componentType": "tuanCell",
+                    "discount": "6.4折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group6/M00/51/7C/wKgBjVeeuyuAfKQiAARwHkCoHSs811.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "HELLOSWEETY新款折扣团",
+                        "title": "HELLOSWEETY新款折扣团",
+                        "expires": "-814015",
+                        "peopleCount": "2900",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group5/M00/11/6C/wKgBf1eevk-AY1OtAARwHkCoHSs494.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1917",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1917",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "VQGT7月品牌团",
+                    "expires": "-814015",
+                    "peopleCount": "2885",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/10/B2/wKgBfVej-IOAaywPAAJjVkVyWjM840.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "VQGT致力于精致、优雅，我们实时加入当季流行元素，丰富品牌的完整性，打造多变的风格，呈现精致的女王范儿",
+                        "title": "VQGT7月品牌团",
+                        "expires": "-814015",
+                        "peopleCount": "2885",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/10/B2/wKgBfVej-IaAKQbiAAJjVkVyWjM461.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1931",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1931",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "欧莎女装品牌特卖",
+                    "expires": "-814015",
+                    "peopleCount": "2705",
+                    "componentType": "tuanCell",
+                    "discount": "69元起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group6/M00/52/C1/wKgBjVekBiOAeITkAAHMegF63kg425.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "汇聚当季时尚流行、精巧剪裁、严苛选材，着力为那些逐渐走向成熟，懂得欣赏的消费者提供得体、自信的着装体验",
+                        "title": "欧莎女装品牌特卖",
+                        "expires": "-814015",
+                        "peopleCount": "2705",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group6/M00/52/B7/wKgBjFekBiWAYZf3AAHMegF63kg563.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1932",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1932",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "hotface女装特卖专场",
+                    "expires": "-900415",
+                    "peopleCount": "2931",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group5/M00/11/2E/wKgBf1ebIaCAFCO7AAMAo3Bu7eE617.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "HotFace是极具欧美风格的时尚运动的生活品牌。",
+                        "title": "hotface女装特卖专场",
+                        "expires": "-900415",
+                        "peopleCount": "2931",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group5/M00/11/2E/wKgBf1ebIaWANR1hAAMAo3Bu7eE167.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1916",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1916",
+                    "tuanState": "已结束"
+                }
+            }
+        ],
+        "flag": "36",
+        "appApi": "/tuanlist",
+        "has_starting": "1"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "lts": "1471572000.0",
+        "items": [
+            {
+                "component": {
+                    "title": "Aimee Zhang夏季新品团购促销",
+                    "expires": "-900429",
+                    "peopleCount": "2146",
+                    "componentType": "tuanCell",
+                    "discount": "最低4折起",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group5/M00/0F/CF/wKgBfVegD8qARNC7AAOLcmE5-gw643.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "彰显淑女风格，引领时尚潮流，全场最低4折起，99元抢购~",
+                        "title": "Aimee Zhang夏季新品团购促销",
+                        "expires": "-900429",
+                        "peopleCount": "2146",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group5/M00/0F/CF/wKgBfVegD86AEdDwAAOLcmE5-gw791.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1922",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1922",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "朋克状态特卖专场",
+                    "expires": "-900429",
+                    "peopleCount": "3021",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group6/M00/52/4D/wKgBjFeintyAJ1rpAAGYtujB_gI544.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "以摇滚音乐为背景的朋克风格。在设计上以黑色为主色调，红色、紫色和少量的绿色以及白色。善于利用金属，仿皮草等装饰设计，打造朋克状态独有的“明星轻摇滚”。",
+                        "title": "朋克状态特卖专场",
+                        "expires": "-900429",
+                        "peopleCount": "3021",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group6/M00/52/4D/wKgBjFeinuSAZRTRAAGYtujB_gI742.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1926",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1926",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "苏安真年中特卖",
+                    "expires": "-900429",
+                    "peopleCount": "2198",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group5/M00/12/93/wKgBf1ejGZKACbZiAAH5rOTyIcg756.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "苏安真（Swise）以都市知性女性作为品牌的顾客群，体现出女性柔美曼妙的曲线，又展現了苏安真品牌女裝的设计点——蝴蝶結",
+                        "title": "苏安真年中特卖",
+                        "expires": "-900429",
+                        "peopleCount": "2198",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group5/M00/12/93/wKgBf1ejGZWAD8HOAAH5rOTyIcg549.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1930",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1930",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "英国Angeleye品牌特惠专场",
+                    "expires": "-986829",
+                    "peopleCount": "4531",
+                    "componentType": "tuanCell",
+                    "discount": "4.8折起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group5/M00/0F/B0/wKgBfVefJF6ATjgOAAIyNSFbe8w432.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "英国原创设计品牌【Angeleye】特惠专场，助你晋级时尚ICON！4.8折起，快来抢购吧~",
+                        "title": "英国Angeleye品牌特惠专场",
+                        "expires": "-986829",
+                        "peopleCount": "4531",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group5/M00/0F/B0/wKgBfVefJGCAB_fBAAIyNSFbe8w442.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1918",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1918",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "秋売女装特卖汇",
+                    "expires": "-986829",
+                    "peopleCount": "1975",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group6/M00/51/DB/wKgBjVegOOyAPJj9AAJKTWgr5ZY736.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "秋売是少女梦想的乌托邦， 个性化的设计、宽松的廓形、混搭与复古的完美结合，展现当下另类的少女世界。",
+                        "title": "秋売女装特卖汇",
+                        "expires": "-986829",
+                        "peopleCount": "1975",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group6/M00/51/DB/wKgBjVegOO6AXodZAAJKTWgr5ZY292.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1923",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1923",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "Mola Luna女装特卖团购37元起",
+                    "expires": "-986829",
+                    "peopleCount": "2474",
+                    "componentType": "tuanCell",
+                    "discount": "37元起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group6/M00/52/05/wKgBjFehZtaAOVppAAOz1n4SMiU892.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "全场1折起，最低37元",
+                        "title": "Mola Luna女装特卖团购37元起",
+                        "expires": "-986829",
+                        "peopleCount": "2474",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group6/M00/52/05/wKgBjFehZtmATCU8AAOz1n4SMiU131.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1924",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1924",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "TTCOLOR女装特卖专场",
+                    "expires": "-1073229",
+                    "peopleCount": "2612",
+                    "componentType": "tuanCell",
+                    "discount": "65元起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group5/M00/10/FA/wKgBf1ea_dOAf2iHAAK7wNLAqxg851.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "注重层次有节奏的混搭效果，彰显自我，崭露个性，坚持在创新中引领潮流",
+                        "title": "TTCOLOR女装特卖专场",
+                        "expires": "-1073229",
+                        "peopleCount": "2612",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group5/M00/10/FA/wKgBf1ea_dWALQKFAAK7wNLAqxg174.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1912",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1912",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "少有工作室女装特价专场",
+                    "expires": "-1073229",
+                    "peopleCount": "2629",
+                    "componentType": "tuanCell",
+                    "discount": "4.7折起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group5/M00/0F/C6/wKgBfVegB62APvVpAAOnnbYiNBw491.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "少有工作室，即时特惠专场，助你晋级时尚ICON！4.7折起，快来抢购吧~",
+                        "title": "少有工作室女装特价专场",
+                        "expires": "-1073229",
+                        "peopleCount": "2629",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group5/M00/0F/C6/wKgBfVegB7GAM2inAAOnnbYiNBw281.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1919",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1919",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "FEVERISH首次品牌团",
+                    "expires": "-1159580",
+                    "peopleCount": "3110",
+                    "componentType": "tuanCell",
+                    "discount": "2.9折起",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group5/M00/0F/48/wKgBfVebLt2AVaOSAAH2EoBjji8570.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "烫社交女鞋的背后是一群固执地想做一双好鞋的中国人。",
+                        "title": "FEVERISH首次品牌团",
+                        "expires": "-1159580",
+                        "peopleCount": "3110",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group5/M00/0F/48/wKgBfVebLuWAHRzaAAH2EoBjji8929.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1915",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1915",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "仙鹿女包8月品牌团",
+                    "expires": "-1159591",
+                    "peopleCount": "2691",
+                    "componentType": "tuanCell",
+                    "discount": "59元起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group5/M00/10/79/wKgBf1eYe1SAAH-HAAGtHxBRdIw186.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "10年来我们只做了一件事，就是把包做好！",
+                        "title": "仙鹿女包8月品牌团",
+                        "expires": "-1159591",
+                        "peopleCount": "2691",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group5/M00/0E/8D/wKgBfVeYe1aABHaAAAGtHxBRdIw583.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1904",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1904",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "韵佩尔8月品牌团",
+                    "expires": "-1159629",
+                    "peopleCount": "2240",
+                    "componentType": "tuanCell",
+                    "discount": "89元起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group6/M00/50/93/wKgBjVeZcuSABgicAAI2kMdn_wk842.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "YUNPEIR是以18-35岁都市女性为核心，推崇现代女性时尚个性风格的追求，结合中国女性特点，设计风格以浪漫华丽为主，深受广大时尚女性的喜爱",
+                        "title": "韵佩尔8月品牌团",
+                        "expires": "-1159629",
+                        "peopleCount": "2240",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group6/M00/50/93/wKgBjVeZcueAEN0tAAI2kMdn_wk011.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1909",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1909",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "环球8月品牌团",
+                    "expires": "-1246029",
+                    "peopleCount": "2231",
+                    "componentType": "tuanCell",
+                    "discount": "44元起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group5/M00/10/7B/wKgBf1eYftGAE1r4AAItXquCJYk006.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "“环球”牌布面胶鞋分为运动、休闲两大类七大系列100多个品种，畅销全国各地，远销北美、欧洲等国家，产品在国内外市场享有较高信誉！追求时尚舒适，创造个性一直是我们努力的方向！",
+                        "title": "环球8月品牌团",
+                        "expires": "-1246029",
+                        "peopleCount": "2231",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group5/M00/10/7B/wKgBf1eYftWAA91HAAItXquCJYk506.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1905",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1905",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "韩国时尚流行配饰",
+                    "expires": "-1246029",
+                    "peopleCount": "2127",
+                    "componentType": "tuanCell",
+                    "discount": "7折",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group5/M00/0E/9A/wKgBfVeZZwmAUwQKAAJkvFpagJI999.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "韩国流行可爱甜美百变配饰",
+                        "title": "韩国时尚流行配饰",
+                        "expires": "-1246029",
+                        "peopleCount": "2127",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group5/M00/0E/9A/wKgBfVeZZwyAc0UXAAJkvFpagJI357.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1907",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1907",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "符号公社特卖专场",
+                    "expires": "-1246029",
+                    "peopleCount": "2088",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group5/M00/11/22/wKgBf1ebE0uAXWOEAAJfDJaf5Ec632.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "符号公社，以其特有的清爽，简约，气质以及精致引领中国男装时尚文化。",
+                        "title": "符号公社特卖专场",
+                        "expires": "-1246029",
+                        "peopleCount": "2088",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group5/M00/0F/36/wKgBfVebE1GASTQIAAJfDJaf5Ec659.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1913",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1913",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "zz大小姐品牌女装特卖",
+                    "expires": "-1246029",
+                    "peopleCount": "2659",
+                    "componentType": "tuanCell",
+                    "discount": "2折起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group6/M00/51/38/wKgBjVebFJiABARuAAIcZt-rdcc246.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "让每个人都住在自己理想的衣服里，享受一流品质，体会到真正的性价比的潮流女装",
+                        "title": "zz大小姐品牌女装特卖",
+                        "expires": "-1246029",
+                        "peopleCount": "2659",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group6/M00/51/38/wKgBjVebFJmADU0fAAIcZt-rdcc339.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1914",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1914",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "轻俏7月品牌团",
+                    "expires": "-1332429",
+                    "peopleCount": "2669",
+                    "componentType": "tuanCell",
+                    "discount": "49元起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group6/M00/4F/D6/wKgBjVeVr2OAJhDHAAJHfl3yx84848.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "轻俏专注寻找和设计轻便舒适和色彩俏丽的鞋履，以轻便俏丽的时尚视角展示自己独特的品牌魅力。每一双鞋都富有年轻俏丽的气息，轻俏，带给你不一样的青春生活！",
+                        "title": "轻俏7月品牌团",
+                        "expires": "-1332429",
+                        "peopleCount": "2669",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group6/M00/4F/D6/wKgBjVeVr2WARLBbAAJHfl3yx84184.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1896",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1896",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "英国Angeleye品牌特惠专场",
+                    "expires": "-1332429",
+                    "peopleCount": "2441",
+                    "componentType": "tuanCell",
+                    "discount": "4.8折",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group5/M00/0D/E2/wKgBfVeVuhSAMqwEAAIyNSFbe8w457.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "英国原创设计品牌【Angeleye】特惠专场，助你晋级时尚  ICON！4.8折起，快来抢购吧~",
+                        "title": "英国Angeleye品牌特惠专场",
+                        "expires": "-1332429",
+                        "peopleCount": "2441",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group5/M00/0D/E2/wKgBfVeVuiGAGaMLAAIyNSFbe8w696.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1897",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1897",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "茵曼女装品牌专场",
+                    "expires": "-1332429",
+                    "peopleCount": "3092",
+                    "componentType": "tuanCell",
+                    "discount": "59元起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group5/M00/0E/A1/wKgBfVeZckSAAKAPAAJ3gl-ByQA760.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "茵曼INMAN女装以自然色调搭配原创设计，采用触感柔软、肤感舒爽的棉麻面料，精心配合时尚原创、自由轻松的设计风格",
+                        "title": "茵曼女装品牌专场",
+                        "expires": "-1332429",
+                        "peopleCount": "3092",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group5/M00/10/8D/wKgBf1eZckaAVjb7AAJ3gl-ByQA958.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1908",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1908",
+                    "tuanState": "已结束"
+                }
+            }
+        ],
+        "flag": "54",
+        "appApi": "/tuanlist",
+        "has_starting": "1"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "lts": "1471572000.0",
+        "items": [
+            {
+                "component": {
+                    "title": "浅休",
+                    "expires": "-1332436",
+                    "peopleCount": "3075",
+                    "componentType": "tuanCell",
+                    "discount": "6折起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group6/M00/50/99/wKgBjFeZgmOADmBeAALB5mfHjh0258.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "浅休 限时团购",
+                        "title": "浅休",
+                        "expires": "-1332436",
+                        "peopleCount": "3075",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group6/M00/50/A2/wKgBjVeZgmWABsxyAALB5mfHjh0957.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1911",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1911",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "简佰格7月品牌团",
+                    "expires": "-1418793",
+                    "peopleCount": "2976",
+                    "componentType": "tuanCell",
+                    "discount": "1.3折起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group5/M00/0E/41/wKgBfVeXHdGAQBZtAAJF3S-JjqA293.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "JONBAG致力于精致、优雅，我们实时加入当季流行元素，丰富品牌的完整性，打造优雅的风格，呈现精致时的气质！",
+                        "title": "简佰格7月品牌团",
+                        "expires": "-1418793",
+                        "peopleCount": "2976",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group5/M00/0E/41/wKgBfVeXHdSATPAeAAJF3S-JjqA928.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1901",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1901",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "Lovin-it",
+                    "expires": "-1418836",
+                    "peopleCount": "2186",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group6/M00/50/9C/wKgBjVeZfWqAINg_AALatV6844s969.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "Lovin-it限时团购",
+                        "title": "Lovin-it",
+                        "expires": "-1418836",
+                        "peopleCount": "2186",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group6/M00/50/9C/wKgBjVeZfWyAJ3WfAALatV6844s541.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1910",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1910",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "欧昵雪女装团",
+                    "expires": "-1505236",
+                    "peopleCount": "2844",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group6/M00/4F/10/wKgBjFeQi_WAFRqWAAIXSWJsce4256.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "精品女装品牌欧昵雪特卖团",
+                        "title": "欧昵雪女装团",
+                        "expires": "-1505236",
+                        "peopleCount": "2844",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group6/M00/4F/10/wKgBjFeQi_iASHAXAAIXSWJsce4011.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1888",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1888",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "She's七月品牌团",
+                    "expires": "-1505236",
+                    "peopleCount": "1930",
+                    "componentType": "tuanCell",
+                    "discount": "4.2折起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group6/M00/50/66/wKgBjVeYY1qAe5cnAAJFoV5h7Q8289.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "She's 品牌，以蝶与花的独特内涵，诠释优雅浪漫的配饰语言，为内心浪漫的都市女性提供以发饰为主的时尚搭配解决方案",
+                        "title": "She's七月品牌团",
+                        "expires": "-1505236",
+                        "peopleCount": "1930",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group6/M00/50/5D/wKgBjFeYY16AOTN6AAJFoV5h7Q8806.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1902",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1902",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "柯玛妮克7月品牌团",
+                    "expires": "-1505236",
+                    "peopleCount": "1791",
+                    "componentType": "tuanCell",
+                    "discount": "2.8折起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group6/M00/50/6E/wKgBjVeYbIiAJTg1AAIKo3xi66g428.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "KOMANIC柯玛妮克为广州柯玛妮克鞋业有限公司自有女鞋品牌，于2010年中国广州创立。",
+                        "title": "柯玛妮克7月品牌团",
+                        "expires": "-1505236",
+                        "peopleCount": "1791",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group6/M00/50/6E/wKgBjVeYbIyAHqA1AAIKo3xi66g783.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1903",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1903",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "朱诺小姐7月品牌团",
+                    "expires": "-1591635",
+                    "peopleCount": "1929",
+                    "componentType": "tuanCell",
+                    "discount": "19.9起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group5/M00/0E/37/wKgBfVeXEm2ABtI8AAK0KChkeM8748.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "朱诺小姐是时尚、个性与智慧的结合。秉承原有风格，时尚实用，传达给受众经典的韵味。",
+                        "title": "朱诺小姐7月品牌团",
+                        "expires": "-1591635",
+                        "peopleCount": "1929",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group5/M00/0E/37/wKgBfVeXEm-AJHatAAK0KChkeM8382.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1900",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1900",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "花花公子",
+                    "expires": "-1591636",
+                    "peopleCount": "2225",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group5/M00/10/08/wKgBf1eW0oiAGT4tAAOzgo0viLo120.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "花花公子 限时团购",
+                        "title": "花花公子",
+                        "expires": "-1591636",
+                        "peopleCount": "2225",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group5/M00/10/08/wKgBf1eW0oqAJ2dHAAOzgo0viLo530.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1899",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1899",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "UOGOO7月品牌团",
+                    "expires": "-1650687",
+                    "peopleCount": "2774",
+                    "componentType": "tuanCell",
+                    "discount": "99元起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group6/M00/50/82/wKgBjVeYgIyAE4eJAAHEFwKn7U0896.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "UOGOO秉承着“高、贵、真”的精神理念，经过层层创意的设计导向，赋予每一款产品高贵的气息和艺术个性",
+                        "title": "UOGOO7月品牌团",
+                        "expires": "-1650687",
+                        "peopleCount": "2774",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group6/M00/50/82/wKgBjVeYgJSAdaNZAAHEFwKn7U0582.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1906",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1906",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "VQGT品牌女包7月团",
+                    "expires": "-1678036",
+                    "peopleCount": "2560",
+                    "componentType": "tuanCell",
+                    "discount": "49元起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group5/M00/0C/A9/wKgBfVePNIOAIm2-AAHxhFw030A609.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "VQGT致力于精致、优雅，我们实时加入当季流行元素，丰富品牌的完整性，打造多变的风格，呈现精致的女王范儿",
+                        "title": "VQGT品牌女包7月团",
+                        "expires": "-1678036",
+                        "peopleCount": "2560",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group5/M00/0E/95/wKgBf1ePNIaAcm-rAAHxhFw030A446.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1885",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1885",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "自由呼吸品牌专场",
+                    "expires": "-1678036",
+                    "peopleCount": "2473",
+                    "componentType": "tuanCell",
+                    "discount": "5折起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group6/M00/4F/D5/wKgBjVeVrSWASY61AAHVHF6Bhjw365.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "自由呼吸在设计一种全新的生活方式，强调于运动中领悟生命的得失，感受活动、健康，理解自由奔放的生活精神。",
+                        "title": "自由呼吸品牌专场",
+                        "expires": "-1678036",
+                        "peopleCount": "2473",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group6/M00/4F/D5/wKgBjVeVrSeANRA7AAHVHF6Bhjw256.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1895",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1895",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "BLUEJUICE女装",
+                    "expires": "-1764436",
+                    "peopleCount": "3073",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group6/M00/4F/31/wKgBjFeRg4CAEeztAAI9oLIEmlQ130.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "澳洲高端时尚女装",
+                        "title": "BLUEJUICE女装",
+                        "expires": "-1764436",
+                        "peopleCount": "3073",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group6/M00/4F/31/wKgBjFeRg4SABARGAAI9oLIEmlQ224.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1891",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1891",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "蜜思唯尔",
+                    "expires": "-1764436",
+                    "peopleCount": "2235",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group5/M00/0D/DC/wKgBfVeVqTqAGiKcAAPhxcNx8Wg084.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "蜜思唯尔限时团购",
+                        "title": "蜜思唯尔",
+                        "expires": "-1764436",
+                        "peopleCount": "2235",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group5/M00/0D/DC/wKgBfVeVqTyAOIswAAPhxcNx8Wg843.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1894",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1894",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "苏安真",
+                    "expires": "-1764436",
+                    "peopleCount": "3082",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group5/M00/0F/EA/wKgBf1eV5GWAcfV4AANVQUfmgjg606.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "苏安真",
+                        "title": "苏安真",
+                        "expires": "-1764436",
+                        "peopleCount": "3082",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group5/M00/0F/EA/wKgBf1eV5GuAEz8HAANVQUfmgjg289.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1898",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1898",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "luna limited",
+                    "expires": "-1850836",
+                    "peopleCount": "2331",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group6/M00/4F/13/wKgBjFeQjzGAQGchAAKoSoDuZDA634.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "精品女装luna limited特卖团",
+                        "title": "luna limited",
+                        "expires": "-1850836",
+                        "peopleCount": "2331",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group6/M00/4F/13/wKgBjFeQjzSAeDuOAAKoSoDuZDA118.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1889",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1889",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "kanfei女装特卖",
+                    "expires": "-1850836",
+                    "peopleCount": "1662",
+                    "componentType": "tuanCell",
+                    "discount": "满199-30",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group6/M00/4F/29/wKgBjVeQoJKAfHC0ABv-DZzDacY675.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "kanfei刊菲，专注于韩版女装、欧美女装的研发，以连衣裙为主打，产品多样性，有雪纺衫、蕾丝衫、半身裙、时尚套装等。",
+                        "title": "kanfei女装特卖",
+                        "expires": "-1850836",
+                        "peopleCount": "1662",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group6/M00/4F/29/wKgBjVeQoJmACFZ3ABv-DZzDacY857.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1890",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1890",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "Aimee Zhang",
+                    "expires": "-1850836",
+                    "peopleCount": "2256",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group5/M00/0F/A8/wKgBf1eVcjKAMZ1TAAMq2326bFc628.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "Aimee Zhang限时团购",
+                        "title": "Aimee Zhang",
+                        "expires": "-1850836",
+                        "peopleCount": "2256",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group5/M00/0F/A8/wKgBf1eVcjaAGfBxAAMq2326bFc887.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1893",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1893",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "奈绮儿女鞋7月品牌团",
+                    "expires": "-1937210",
+                    "peopleCount": "1912",
+                    "componentType": "tuanCell",
+                    "discount": "168起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group6/M00/4F/6D/wKgBjFeR8HWAF6bTAAHBd6UZKMw928.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "选择“奈绮儿”，开始属于您自己的时尚小魔方！奈绮儿以十五年女鞋制鞋经验，为您呈现华丽独特又略带女性性感气质的时尚鞋款风格。奈绮儿鞋履追求舒适品质和潮流时尚并存",
+                        "title": "奈绮儿女鞋7月品牌团",
+                        "expires": "-1937210",
+                        "peopleCount": "1912",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group6/M00/4F/6D/wKgBjFeR8HiALZ8YAAHBd6UZKMw952.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1892",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1892",
+                    "tuanState": "已结束"
+                }
+            }
+        ],
+        "flag": "72",
+        "appApi": "/tuanlist",
+        "has_starting": "1"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "lts": "1471572000.0",
+        "items": [
+            {
+                "component": {
+                    "title": "PASS女装团",
+                    "expires": "-1937245",
+                    "peopleCount": "1824",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/0C/44/wKgBfVeNz2yAOBQKAAKtnRMZ5jM659.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "精品运动休闲品牌pass特卖团",
+                        "title": "PASS女装团",
+                        "expires": "-1937245",
+                        "peopleCount": "1824",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group5/M00/0C/44/wKgBfVeNz2-AKHsPAAKtnRMZ5jM791.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1880",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1880",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "设计师品牌OOZ团购",
+                    "expires": "-1937245",
+                    "peopleCount": "2067",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group5/M00/0D/04/wKgBfVeQiX6Ad8THAAF9mkksUKU411.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "精品设计师女装OOZ品牌团",
+                        "title": "设计师品牌OOZ团购",
+                        "expires": "-1937245",
+                        "peopleCount": "2067",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group5/M00/0E/F0/wKgBf1eQiYGAAxeeAAF9mkksUKU300.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1887",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1887",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "俏品牌团",
+                    "expires": "-2023645",
+                    "peopleCount": "2733",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group5/M00/0E/22/wKgBf1eNxWWAXG3TAAOZZIt_uC8324.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "精品女装品牌俏特卖团",
+                        "title": "俏品牌团",
+                        "expires": "-2023645",
+                        "peopleCount": "2733",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group5/M00/0E/22/wKgBf1eNxWiALW34AAOZZIt_uC8493.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1879",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1879",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "Alicedudu女装专场特卖",
+                    "expires": "-2023645",
+                    "peopleCount": "3137",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/0D/16/wKgBfVeQlhyARGIrAAQNf-LrmFA953.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "Alicedudu 强调时尚的流行旋律，设计师试图通过设计用最单纯的心情去表达最丰富精致的情感，完美演绎甜美与优雅的碰撞！",
+                        "title": "Alicedudu女装专场特卖",
+                        "expires": "-2023645",
+                        "peopleCount": "3137",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/0D/16/wKgBfVeQliCADHJxAAQNf-LrmFA340.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1886",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1886",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "歌莉娅7月品牌团",
+                    "expires": "-2110016",
+                    "peopleCount": "3002",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group6/M00/4E/0B/wKgBjVeMqvqALj0fAAMyj54pGBE763.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "歌莉娅(GLIYA)是一个将精湛的细节与品质融入真皮的时尚女包品牌",
+                        "title": "歌莉娅7月品牌团",
+                        "expires": "-2110016",
+                        "peopleCount": "3002",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group6/M00/4E/0B/wKgBjVeMqv6AUkRCAAMyj54pGBE800.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1876",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1876",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "够爱依点特卖团",
+                    "expires": "-2110045",
+                    "peopleCount": "2371",
+                    "componentType": "tuanCell",
+                    "discount": "39元起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group6/M00/4D/B7/wKgBjVeMPkGAF8grAAH83xAV-aE563.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "时尚品牌女装够爱依点年中团购促销",
+                        "title": "够爱依点特卖团",
+                        "expires": "-2110045",
+                        "peopleCount": "2371",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group6/M00/4D/B7/wKgBjVeMPkSAEWTdAAH83xAV-aE216.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1869",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1869",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "SURESONG女装特卖专场",
+                    "expires": "-2110045",
+                    "peopleCount": "2268",
+                    "componentType": "tuanCell",
+                    "discount": "3.9折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group5/M00/0E/7E/wKgBf1ePHEiAbU8KAAHH0atilUg330.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "SURESONG本身是自由奔放,无拘无束的。寻找民族特征具有当地特色的用以流苏、绣花、印花、蜡染、扎染为主要工艺。",
+                        "title": "SURESONG女装特卖专场",
+                        "expires": "-2110045",
+                        "peopleCount": "2268",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group5/M00/0C/91/wKgBfVePHFGAHaQtAAHH0atilUg666.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1884",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1884",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "西遇7月品牌团",
+                    "expires": "-2196431",
+                    "peopleCount": "2122",
+                    "componentType": "tuanCell",
+                    "discount": "29元起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/0E/7D/wKgBf1ePHBiAHE0EAAKj4jvh6wE314.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "Westlink西遇，一直以来以“潮流时尚”、“产品丰富”以及“物超所值”著称。在Westlink西遇的店铺里，你可以从头到脚，找到适合你的各类服饰配饰，并以此展现你人生中最美好的一刻。",
+                        "title": "西遇7月品牌团",
+                        "expires": "-2196431",
+                        "peopleCount": "2122",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/0E/7D/wKgBf1ePHBuAAptSAAKj4jvh6wE043.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1883",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1883",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "美国休闲服装品牌IZOD品牌团购",
+                    "expires": "-2196445",
+                    "peopleCount": "1535",
+                    "componentType": "tuanCell",
+                    "discount": "全场3折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/0D/BA/wKgBf1eMga6AWJYtAAHG8TYGFvE687.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "全场3折起，5元店铺无门槛，满299-10，满399-20，499-30",
+                        "title": "美国休闲服装品牌IZOD品牌团购",
+                        "expires": "-2196445",
+                        "peopleCount": "1535",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group5/M00/0B/CE/wKgBfVeMgbGAcEWbAAHG8TYGFvE689.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1872",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1872",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "手表集合",
+                    "expires": "-2196445",
+                    "peopleCount": "1647",
+                    "componentType": "tuanCell",
+                    "discount": "3.1折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group5/M00/0D/F9/wKgBf1eNiDCAZaofAAIsmiyGDF8709.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "手表集合 DW全场3折起，机会不容错过",
+                        "title": "手表集合",
+                        "expires": "-2196445",
+                        "peopleCount": "1647",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group5/M00/0C/0C/wKgBfVeNiDSABAr9AAIsmiyGDF8805.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1877",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1877",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "尼西韩国时装",
+                    "expires": "-2196445",
+                    "peopleCount": "3242",
+                    "componentType": "tuanCell",
+                    "discount": "6.5折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group6/M00/4E/1A/wKgBjFeNkgyAPUNWAAOmyJRcuXM043.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "尼西韩国时装 限时团购",
+                        "title": "尼西韩国时装",
+                        "expires": "-2196445",
+                        "peopleCount": "3242",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group6/M00/4E/1A/wKgBjFeNkg6AT4HQAAOmyJRcuXM543.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1878",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1878",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "乔诗兰丹",
+                    "expires": "-2196445",
+                    "peopleCount": "1824",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/0C/8E/wKgBfVePFomAICQUAAK55CHuax0811.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "乔诗兰丹专注于新时代的年轻女性服装设计，为满足新时代女性的对时尚的追求而不断创新，致力于给广大消费者提供最具性价比、最具优质体验。",
+                        "title": "乔诗兰丹",
+                        "expires": "-2196445",
+                        "peopleCount": "1824",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/0C/8E/wKgBfVePFoyABTOZAAK55CHuax0239.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1882",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1882",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "茵曼女装品牌特卖",
+                    "expires": "-2282845",
+                    "peopleCount": "2963",
+                    "componentType": "tuanCell",
+                    "discount": "59元起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group6/M00/4D/D9/wKgBjVeMfpWAU8UqAAJfrUdlz5g203.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "通过量身打造随性时尚的衣着风格，打造随性主义的时尚女装特色。",
+                        "title": "茵曼女装品牌特卖",
+                        "expires": "-2282845",
+                        "peopleCount": "2963",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group6/M00/4D/D9/wKgBjVeMfpeAAv-YAAJfrUdlz5g309.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1871",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1871",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "韩国百货商店运动品牌lazybee团购",
+                    "expires": "-2282845",
+                    "peopleCount": "2368",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group5/M00/0B/F8/wKgBfVeMpG6AfctfAAIo5dqa5Pw063.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "韩国黄静茵代言运动品牌lazybee",
+                        "title": "韩国百货商店运动品牌lazybee团购",
+                        "expires": "-2282845",
+                        "peopleCount": "2368",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group5/M00/0B/F8/wKgBfVeMpHOAGctpAAIo5dqa5Pw810.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1875",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1875",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "韵佩尔7月品牌团",
+                    "expires": "-2369189",
+                    "peopleCount": "1669",
+                    "componentType": "tuanCell",
+                    "discount": "79元起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group5/M00/0D/CC/wKgBf1eMjS6AFzXTAAJk_v0hP7A999.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "YUNPEIR是以18-35岁都市女性为核心，推崇现代女性时尚个性风格的追求，结合中国女性特点，设计风格以浪漫华丽为主，深受广大时尚女性的喜爱",
+                        "title": "韵佩尔7月品牌团",
+                        "expires": "-2369189",
+                        "peopleCount": "1669",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group5/M00/0D/CC/wKgBf1eMjTCAShixAAJk_v0hP7A946.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1873",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1873",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "AFLSE年中特卖专场",
+                    "expires": "-2369245",
+                    "peopleCount": "3111",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group6/M00/4D/58/wKgBjFeItbuAXn1uAAKQ6exds9I656.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "AFLSE为您推出了当下最时尚的时装。花枝招展的艺术渲染力，宣泄出势不可挡的时尚正能量，充满跃动感的色彩设计，饶富趣味的时髦元素，为你的无限春光更添明媚。",
+                        "title": "AFLSE年中特卖专场",
+                        "expires": "-2369245",
+                        "peopleCount": "3111",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group6/M00/4D/58/wKgBjFeItb6AdItRAAKQ6exds9I937.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1868",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1868",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "Ravijour",
+                    "expires": "-2369245",
+                    "peopleCount": "2001",
+                    "componentType": "tuanCell",
+                    "discount": "全场7折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group6/M00/4D/F1/wKgBjFeMlD6AWW7rAAOSlfnJrK4627.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "日本维密Ravijour，多次登上时尚杂志封面，性感优雅与时尚俏皮的结合体。",
+                        "title": "Ravijour",
+                        "expires": "-2369245",
+                        "peopleCount": "2001",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group6/M00/4D/F1/wKgBjFeMlEOAZ0tTAAOSlfnJrK4902.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1874",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1874",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "亿瑞儿女装品牌专场",
+                    "expires": "-2455645",
+                    "peopleCount": "1945",
+                    "componentType": "tuanCell",
+                    "discount": "61元起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group6/M00/4D/29/wKgBjVeIe-aAEcKgAAIILG9oKbA877.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "亿瑞儿，完美展现女性的优雅和自信，有小资的品位，又有大手笔的个性。",
+                        "title": "亿瑞儿女装品牌专场",
+                        "expires": "-2455645",
+                        "peopleCount": "1945",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group6/M00/4D/29/wKgBjVeIe-iAVU9HAAIILG9oKbA655.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1863",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1863",
+                    "tuanState": "已结束"
+                }
+            }
+        ],
+        "flag": "90",
+        "appApi": "/tuanlist",
+        "has_starting": "1"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "lts": "1471572000.0",
+        "items": [
+            {
+                "component": {
+                    "title": "CC&DD女装品牌特卖专场",
+                    "expires": "-2455647",
+                    "peopleCount": "2618",
+                    "componentType": "tuanCell",
+                    "discount": "68元起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/0B/2E/wKgBfVeIkH2AW3UjAAJe3JYqPJs347.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "“平价时装”的品牌理念，将时装世界化、大众化，把时尚的触角延伸至每一个热爱时尚的年轻人",
+                        "title": "CC&DD女装品牌特卖专场",
+                        "expires": "-2455647",
+                        "peopleCount": "2618",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/0B/2E/wKgBfVeIkH-AGSA7AAJe3JYqPJs319.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1865",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1865",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "榭都年中特卖专场",
+                    "expires": "-2455647",
+                    "peopleCount": "2118",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group6/M00/4D/5B/wKgBjVeIrxKAWQzhAAK1d43dHZk489.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "“青名媛，重工艺”-新锐设计师品牌 新锐设计师品牌。",
+                        "title": "榭都年中特卖专场",
+                        "expires": "-2455647",
+                        "peopleCount": "2118",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group6/M00/4D/5B/wKgBjVeIrxeAOa_aAAK1d43dHZk460.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1867",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1867",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "Miss Patina7月团购专场",
+                    "expires": "-2542047",
+                    "peopleCount": "1746",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group5/M00/0A/D5/wKgBfVeHTYeAGsuTAAL_Uf2g6sg775.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "英国原创设计品牌 Miss Patina【7.17】团购专场，助你晋级时尚   ICON！4折起，快来抢购吧~",
+                        "title": "Miss Patina7月团购专场",
+                        "expires": "-2542047",
+                        "peopleCount": "1746",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group5/M00/0A/D5/wKgBfVeHTZyAKxdHAAL_Uf2g6sg447.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1860",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1860",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "康龙",
+                    "expires": "-2542047",
+                    "peopleCount": "1267",
+                    "componentType": "tuanCell",
+                    "discount": "2折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group6/M00/4D/CF/wKgBjVeMcpuALlzPAANFk3v1SeU923.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "康龙  男女鞋  限时团购",
+                        "title": "康龙",
+                        "expires": "-2542047",
+                        "peopleCount": "1267",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group6/M00/4D/CF/wKgBjVeMcp2AKtx7AANFk3v1SeU072.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1870",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1870",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "UOGOO女鞋7月品牌团",
+                    "expires": "-2628424",
+                    "peopleCount": "2317",
+                    "componentType": "tuanCell",
+                    "discount": "99元起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/09/62/wKgBfVd_Y-aAXeYZAAHEFwKn7U0503.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "UOGOO秉承着“高、贵、真”的精神理念，经过层层创意的设计导向，赋予每一款产品高贵的气息和艺术个性",
+                        "title": "UOGOO女鞋7月品牌团",
+                        "expires": "-2628424",
+                        "peopleCount": "2317",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/09/62/wKgBfVd_Y-mAEDtZAAHEFwKn7U0748.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1850",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1850",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "HotFace欧美风格的时尚运动女装",
+                    "expires": "-2628447",
+                    "peopleCount": "2696",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/0B/47/wKgBfVeIpTWAOor5AAPjdDld61E502.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "HotFace是极具欧美风格的时尚运动的生活品牌。",
+                        "title": "HotFace欧美风格的时尚运动女装",
+                        "expires": "-2628447",
+                        "peopleCount": "2696",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group6/M00/4D/53/wKgBjVeIpTmAbKySAAPjdDld61E836.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1834",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1834",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "日本女装自营店",
+                    "expires": "-2628447",
+                    "peopleCount": "2366",
+                    "componentType": "tuanCell",
+                    "discount": "全场3折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group6/M00/4D/2B/wKgBjVeIgZiADmIzAANUOROa73o976.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "日本惠山集团旗下自采，傲娇品牌，超低折扣~",
+                        "title": "日本女装自营店",
+                        "expires": "-2628447",
+                        "peopleCount": "2366",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group6/M00/4D/2B/wKgBjVeIgZuAXapTAANUOROa73o680.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1864",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1864",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "苏安真（Swise）年中特卖专场",
+                    "expires": "-2714847",
+                    "peopleCount": "3226",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group5/M00/0A/E0/wKgBfVeHWQ2AJCZCAAjEhpRggyo147.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "苏安真（Swise）以现代职业女性“强势小女人、小性感”为诉求点。既体现出女性柔美曼妙的曲线，又展現了苏安真品牌女裝的设计点——蝴蝶結",
+                        "title": "苏安真（Swise）年中特卖专场",
+                        "expires": "-2714847",
+                        "peopleCount": "3226",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group5/M00/0A/E0/wKgBfVeHWRGAT5IcAAjEhpRggyo185.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1835",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1835",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "罗兰院长7月品牌团",
+                    "expires": "-2801194",
+                    "peopleCount": "4007",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group6/M00/4C/03/wKgBjFeEUNGAVHoOAAKgqlPWE2M132.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "罗兰院长主要推出新潮女包与手袋，焦距卓越，创意流行，融汇国际时尚思潮，欧美日韩最潮的爆款尽在此处，让您永远站在潮流的浪尖上。",
+                        "title": "罗兰院长7月品牌团",
+                        "expires": "-2801194",
+                        "peopleCount": "4007",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group6/M00/4C/03/wKgBjFeEUNOAcGIBAAKgqlPWE2M316.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1856",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1856",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "KIKC男装品牌特卖专场",
+                    "expires": "-2801247",
+                    "peopleCount": "2239",
+                    "componentType": "tuanCell",
+                    "discount": "69元起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group6/M00/4C/2C/wKgBjVeEiNyARnMlAAIrT1t_m9c611.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "时尚男装品牌为消费者提供高性价比商品、优质服务、愉悦着装体验",
+                        "title": "KIKC男装品牌特卖专场",
+                        "expires": "-2801247",
+                        "peopleCount": "2239",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group6/M00/4C/2C/wKgBjVeEiN-ACbCAAAIrT1t_m9c507.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1857",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1857",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "zz大小姐特卖专场",
+                    "expires": "-2801247",
+                    "peopleCount": "2623",
+                    "componentType": "tuanCell",
+                    "discount": "2折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group6/M00/4C/49/wKgBjFeEvPiADbXzAAJsBKrJElc684.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "STYLES欧美风格、简约时尚、专业设计！打造一个多姿多彩、丰富完美的衣界！",
+                        "title": "zz大小姐特卖专场",
+                        "expires": "-2801247",
+                        "peopleCount": "2623",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group6/M00/4C/4A/wKgBjFeEvPqAF53gAAJsBKrJElc656.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1859",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1859",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "Alicedudu 特卖专场",
+                    "expires": "-2887647",
+                    "peopleCount": "3720",
+                    "componentType": "tuanCell",
+                    "discount": "3折起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group6/M00/4C/3B/wKgBjFeEqCGAPcMcAAOILzQJehI878.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "Alicedudu 强调时尚的流行旋律，设计师试图通过设计用最单纯的心情去表达最丰富精致的情感，完美演绎甜美与优雅的碰撞！",
+                        "title": "Alicedudu 特卖专场",
+                        "expires": "-2887647",
+                        "peopleCount": "3720",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group6/M00/4C/44/wKgBjVeEqCSAURPVAAOILzQJehI530.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1836",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1836",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "卡西欧品牌联合",
+                    "expires": "-2887647",
+                    "peopleCount": "2545",
+                    "componentType": "tuanCell",
+                    "discount": "7折起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/09/D2/wKgBfVeDR42AM9ssAAKnf7LTDms292.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "名表联合",
+                        "title": "卡西欧品牌联合",
+                        "expires": "-2887647",
+                        "peopleCount": "2545",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/09/D2/wKgBfVeDR5CACqbAAAKnf7LTDms878.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1854",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1854",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "HOUSE OF FANCY7月品牌团",
+                    "expires": "-2974026",
+                    "peopleCount": "3154",
+                    "componentType": "tuanCell",
+                    "discount": "5折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/0B/4B/wKgBf1d_YFiAGUZwAAIyj78ol6Y069.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "“HOUSE OF FANCY”系列为母品牌FANCY旗下，专为追求精湛工艺品质的女性消费者打造的中高端品牌，其系列覆盖包包、女鞋、饰品等女性时尚单品。\"",
+                        "title": "HOUSE OF FANCY7月品牌团",
+                        "expires": "-2974026",
+                        "peopleCount": "3154",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group5/M00/0B/4B/wKgBf1d_YFqAHpxzAAIyj78ol6Y049.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1849",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1849",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "诗凡黎品牌团",
+                    "expires": "-2974047",
+                    "peopleCount": "3157",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s4.pimg.cn//group6/M00/4B/72/wKgBjVd_bymAB30gAAHKwJlK23s844.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "精品女装品牌诗凡黎团购",
+                        "title": "诗凡黎品牌团",
+                        "expires": "-2974047",
+                        "peopleCount": "3157",
+                        "actionType": "tuan",
+                        "picUrl": "http://s5.pimg.cn//group6/M00/4B/72/wKgBjVd_by2AVyQqAAHKwJlK23s894.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1852",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1852",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "芭拉都7月品牌团",
+                    "expires": "-2974047",
+                    "peopleCount": "3179",
+                    "componentType": "tuanCell",
+                    "discount": "59元起",
+                    "slide": "",
+                    "picUrl": "http://s6.pimg.cn//group5/M00/09/E6/wKgBfVeDZFqAbrXyAAGWQctqA2o393.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "BALADO（芭拉都）品牌秉承“时尚大女人 高傲女王范儿”风格，设计师大胆采用欧美最新时尚元素，，注重品质和手工打造，通过包包的姿态体现主人高贵的气质。",
+                        "title": "芭拉都7月品牌团",
+                        "expires": "-2974047",
+                        "peopleCount": "3179",
+                        "actionType": "tuan",
+                        "picUrl": "http://s.pimg.cn//group5/M00/09/E6/wKgBfVeDZFyATiF9AAGWQctqA2o031.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1855",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1855",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "TTCOLOR品牌特卖专场",
+                    "expires": "-3060447",
+                    "peopleCount": "3159",
+                    "componentType": "tuanCell",
+                    "discount": "79元起",
+                    "slide": "",
+                    "picUrl": "http://s0.pimg.cn//group5/M00/09/3F/wKgBfVd_Q_iAeF0UAAL6NvOgvrQ688.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "TT.COLOR注重层次有节奏的混搭效果，彰显自我，崭露个性，坚持在创新中引领潮流。",
+                        "title": "TTCOLOR品牌特卖专场",
+                        "expires": "-3060447",
+                        "peopleCount": "3159",
+                        "actionType": "tuan",
+                        "picUrl": "http://s1.pimg.cn//group5/M00/0B/2B/wKgBf1d_Q_qAUBMZAAL6NvOgvrQ555.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1844",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1844",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "日本女装自营店",
+                    "expires": "-3060447",
+                    "peopleCount": "3637",
+                    "componentType": "tuanCell",
+                    "discount": "全场3折起",
+                    "slide": "",
+                    "picUrl": "http://s2.pimg.cn//group5/M00/0B/37/wKgBf1d_SWCAULaTAANUOROa73o236.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "日本惠山集团旗下品牌自采时装！高品质、低折扣！",
+                        "title": "日本女装自营店",
+                        "expires": "-3060447",
+                        "peopleCount": "3637",
+                        "actionType": "tuan",
+                        "picUrl": "http://s3.pimg.cn//group5/M00/0B/37/wKgBf1d_SWSAUnWWAANUOROa73o321.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1846",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1846",
+                    "tuanState": "已结束"
+                }
+            }
+        ],
+        "flag": "108",
+        "appApi": "/tuanlist",
+        "has_starting": "1"
+    }
+}
+{
+    "message": "",
+    "data": {
+        "lts": "1471572000.0",
+        "items": [
+            {
+                "component": {
+                    "title": "CHANCE-ON限时折扣专场",
+                    "expires": "309020",
+                    "peopleCount": "4452",
+                    "componentType": "tuanCell",
+                    "discount": "全场4折起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group6/M00/53/3F/wKgBjVeoQteAONhkAAL9kPGs5cQ615.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "CHANCE-ON限时折扣专场",
+                        "title": "CHANCE-ON限时折扣专场",
+                        "expires": "309020",
+                        "peopleCount": "4452",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group6/M00/53/36/wKgBjFeoQuCAYPzkAAL9kPGs5cQ386.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1939",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1939",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "纤慕8月团购特惠专场",
+                    "expires": "309019",
+                    "peopleCount": "1307",
+                    "componentType": "tuanCell",
+                    "discount": "全场2折起",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group5/M00/11/B3/wKgBfVeqxjeARfIJAAKlWbU7O88785.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "【纤慕】即时特惠专场，全场2折起，快来抢购吧~",
+                        "title": "纤慕8月团购特惠专场",
+                        "expires": "309019",
+                        "peopleCount": "1307",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group5/M00/11/B3/wKgBfVeqxjuALKgbAAKlWbU7O88982.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1953",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1953",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "秋壳女装周年庆",
+                    "expires": "309019",
+                    "peopleCount": "2249",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group5/M00/15/01/wKgBf1e0MemAUcMJAAPmcUXRhQQ104.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "秋売是少女梦想的乌托邦，在秋売天马行空的世界里少女们可以自由驰骋，用童真的眼睛追逐世界与梦想，通过混搭展现敢梦敢闯、个性十足的自己",
+                        "title": "秋壳女装周年庆",
+                        "expires": "309019",
+                        "peopleCount": "2249",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group5/M00/15/01/wKgBf1e0MeuACyfIAAPmcUXRhQQ103.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1968",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1968",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "KANAMI夏季团购",
+                    "expires": "222619",
+                    "peopleCount": "3528",
+                    "componentType": "tuanCell",
+                    "discount": "全场49元起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group5/M00/13/32/wKgBf1eoPoeAHMS_AAF2IkzM6OE685.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "【KANAMI】专注韩版学院派精品，女装爆款系甜美小清新，原创设计，全场实拍，每周海量上新。",
+                        "title": "KANAMI夏季团购",
+                        "expires": "222619",
+                        "peopleCount": "3528",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group5/M00/13/32/wKgBf1eoPnuAOoTUAAIbqoMlmPA554.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1938",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1938",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "IKEWA夏末限时抢购",
+                    "expires": "222619",
+                    "peopleCount": "2167",
+                    "componentType": "tuanCell",
+                    "discount": "1折起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group5/M00/12/C2/wKgBfVeykiiAQdpnAATl9LsMfzE664.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "IKEWA引领韩国配饰潮流时尚风向标",
+                        "title": "IKEWA夏末限时抢购",
+                        "expires": "222619",
+                        "peopleCount": "2167",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group5/M00/12/C2/wKgBfVeykjaADHODAATl9LsMfzE437.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1966",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1966",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "Lovin-it 夏季新品团购促销",
+                    "expires": "136219",
+                    "peopleCount": "1795",
+                    "componentType": "tuanCell",
+                    "discount": "最低3折起",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group6/M00/53/5E/wKgBjVepUTSAGfP9AAJG61SwkhA713.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "时尚淑女名媛风，带你引领夏季潮流",
+                        "title": "Lovin-it 夏季新品团购促销",
+                        "expires": "136219",
+                        "peopleCount": "1795",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group6/M00/53/5E/wKgBjVepUS-AbpFHAAJG61SwkhA583.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1943",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1943",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "尼西韩国时装特惠专场",
+                    "expires": "136219",
+                    "peopleCount": "1710",
+                    "componentType": "tuanCell",
+                    "discount": "全场4.9折起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group6/M00/53/91/wKgBjFeqnbeABGUjAAOyrwL2SkE202.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "尼西韩国时装折扣特惠，更有无门槛满减，快来抢购吧",
+                        "title": "尼西韩国时装特惠专场",
+                        "expires": "136219",
+                        "peopleCount": "1710",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group6/M00/53/91/wKgBjFeqnheATVlFAAOyrwL2SkE411.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1952",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1952",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "柚子美衣团购专场",
+                    "expires": "136219",
+                    "peopleCount": "2070",
+                    "componentType": "tuanCell",
+                    "discount": "29元起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group5/M00/14/23/wKgBf1etZFmAGQ9NAAK747p8fLg621.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "柚子美衣主营快时尚女装，定位清新实用百搭，倡导独立、自信、时尚，为亲们提供高性价比的时尚潮流服饰。",
+                        "title": "柚子美衣团购专场",
+                        "expires": "136219",
+                        "peopleCount": "2070",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group5/M00/14/23/wKgBf1etZFuAUoPCAAK747p8fLg503.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1959",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1959",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "Glamorous团购专场",
+                    "expires": "49819",
+                    "peopleCount": "1853",
+                    "componentType": "tuanCell",
+                    "discount": "2.6折起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group5/M00/12/A8/wKgBfVexfSGAVrKnAAMCQWZNwbs668.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "Glamorous团购专场，助你晋级时尚ICON!2.6折起，快来抢购吧~",
+                        "title": "Glamorous团购专场",
+                        "expires": "49819",
+                        "peopleCount": "1853",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group5/M00/12/A8/wKgBfVexfSSAZ-gxAAMCQWZNwbs187.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1963",
+                        "tuanState": "正在抢购"
+                    },
+                    "id": "1963",
+                    "tuanState": "正在抢购"
+                }
+            },
+            {
+                "component": {
+                    "title": "zz大小姐秋装特卖专场",
+                    "expires": "-36581",
+                    "peopleCount": "1667",
+                    "componentType": "tuanCell",
+                    "discount": "2折起",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group6/M00/54/3A/wKgBjVetfAeAdkgbAAIcZt-rdcc893.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "让每个人都住在自己理想的衣服里，享受一流品质，体会到真正的性价比的潮流女装",
+                        "title": "zz大小姐秋装特卖专场",
+                        "expires": "-36581",
+                        "peopleCount": "1667",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group5/M00/14/2D/wKgBf1etfAuAGO8JAAIcZt-rdcc203.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1960",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1960",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "森宿女装特卖专场",
+                    "expires": "-122381",
+                    "peopleCount": "1763",
+                    "componentType": "tuanCell",
+                    "discount": "2折起",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group5/M00/14/45/wKgBf1etmzyARmcZAAM3h_O7-t0529.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "清新、独立、念旧，像设计一件衣服一样，与气息相投的你，一起记录生活的每一寸精彩。",
+                        "title": "森宿女装特卖专场",
+                        "expires": "-122381",
+                        "peopleCount": "1763",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group5/M00/14/46/wKgBf1etmz2AR6riAAM3h_O7-t0507.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1962",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1962",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "梵韵团购特价折扣",
+                    "expires": "-122981",
+                    "peopleCount": "2231",
+                    "componentType": "tuanCell",
+                    "discount": "全场6折起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group5/M00/11/30/wKgBfVeoHymABpf0AAJ591ZT7HY373.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "即时专场，助你晋级时尚ICON！全场6折起，快来抢购吧~",
+                        "title": "梵韵团购特价折扣",
+                        "expires": "-122981",
+                        "peopleCount": "2231",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group5/M00/11/30/wKgBfVeoHy2ABy9YAAJ591ZT7HY028.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1937",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1937",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "西遇服饰品牌团购",
+                    "expires": "-122981",
+                    "peopleCount": "2554",
+                    "componentType": "tuanCell",
+                    "discount": "49元起",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group6/M00/53/3C/wKgBjFeoRnuANjiwAARp04_xt-U570.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "在Westlink西遇的店铺里，你可以从头到脚，找到适合你的各类服饰配饰，并以此展现你人生中最美好的一刻",
+                        "title": "西遇服饰品牌团购",
+                        "expires": "-122981",
+                        "peopleCount": "2554",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group5/M00/13/35/wKgBf1eoRaaANA1JAARp04_xt-U817.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1940",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1940",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "【Miss Patina】福利来袭",
+                    "expires": "-209381",
+                    "peopleCount": "1902",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group6/M00/53/F1/wKgBjFesNXKAfCWGAAL_Uf2g6sg980.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "英国原创设计品牌【Miss Patina】团购专场，助你晋级时尚ICON! 夏装福利，4折来袭，快来抢购吧~",
+                        "title": "【Miss Patina】福利来袭",
+                        "expires": "-209381",
+                        "peopleCount": "1902",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group6/M00/53/F1/wKgBjFesNXOAWag4AAL_Uf2g6sg046.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1957",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1957",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "俏八月团购",
+                    "expires": "-209381",
+                    "peopleCount": "2686",
+                    "componentType": "tuanCell",
+                    "discount": "299减30499减60",
+                    "slide": "",
+                    "picUrl": "http://s5.pimg.cn//group5/M00/14/16/wKgBf1etOGGAA-dSAARxmfnJmTE731.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "作为小欧美风的始作俑者，CIAO!DAFANFAN 俏 从未停止去解决欧美设计与亚洲版型之间与生俱来的冲突感，去打破高级时装与平价消费之间无法统一的定律，创造更适合亚洲人身材与性格的平价奢侈时装。",
+                        "title": "俏八月团购",
+                        "expires": "-209381",
+                        "peopleCount": "2686",
+                        "actionType": "tuan",
+                        "picUrl": "http://s6.pimg.cn//group5/M00/14/16/wKgBf1etOGWAa1N6AARxmfnJmTE363.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1958",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1958",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "艾妃莎年中女装特卖",
+                    "expires": "-209381",
+                    "peopleCount": "2640",
+                    "componentType": "tuanCell",
+                    "discount": "4折起",
+                    "slide": "",
+                    "picUrl": "http://s.pimg.cn//group5/M00/12/41/wKgBfVetf-SAQfshAALhxdkRNIY073.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "AFLSE为您推出了当下最时尚的时装。花枝招展的艺术渲染力，宣泄出势不可挡的时尚正能量，充满跃动感的色彩设计，饶富趣味的时髦元素，为你的无限春光更添明媚。",
+                        "title": "艾妃莎年中女装特卖",
+                        "expires": "-209381",
+                        "peopleCount": "2640",
+                        "actionType": "tuan",
+                        "picUrl": "http://s0.pimg.cn//group5/M00/12/41/wKgBfVetf-qAHW5IAALhxdkRNIY726.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1961",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1961",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "STYLENANDA限时折扣专场",
+                    "expires": "-295781",
+                    "peopleCount": "2309",
+                    "componentType": "tuanCell",
+                    "discount": "8折",
+                    "slide": "",
+                    "picUrl": "http://s1.pimg.cn//group6/M00/52/76/wKgBjFei8XaAc_njAAMW_mI0hTE295.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "STYLENANDA限时折扣专场",
+                        "title": "STYLENANDA限时折扣专场",
+                        "expires": "-295781",
+                        "peopleCount": "2309",
+                        "actionType": "tuan",
+                        "picUrl": "http://s2.pimg.cn//group6/M00/52/76/wKgBjFei8XiACatsAAMW_mI0hTE382.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1929",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1929",
+                    "tuanState": "已结束"
+                }
+            },
+            {
+                "component": {
+                    "title": "Junystyle团购专场",
+                    "expires": "-295781",
+                    "peopleCount": "2432",
+                    "componentType": "tuanCell",
+                    "discount": "全场7折",
+                    "slide": "",
+                    "picUrl": "http://s3.pimg.cn//group6/M00/53/C2/wKgBjVeq7haAKz4kAAIPt0xuSos433.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                    "action": {
+                        "description": "Junystyle团购专场，纵享韩风美履，全场7折~",
+                        "title": "Junystyle团购专场",
+                        "expires": "-295781",
+                        "peopleCount": "2432",
+                        "actionType": "tuan",
+                        "picUrl": "http://s4.pimg.cn//group6/M00/53/C2/wKgBjVeq7h-ASCyqAAIPt0xuSos336.jpg?imageMogr2/auto-orient/thumbnail/600x%3E/quality/80",
+                        "query": "",
+                        "id": "1955",
+                        "tuanState": "已结束"
+                    },
+                    "id": "1955",
+                    "tuanState": "已结束"
+                }
+            }
+        ],
+        "flag": "18",
+        "appApi": "/tuanlist",
+        "has_starting": "1"
+    }
+}

@@ -1,6 +1,22 @@
-<div id="m-index">
-    <header>1a</header>
-    <nav>2b</nav>
+<div class="m-index">
+    <header>
+      <i></i>
+      <input type="text" value="想要搜索：搭配/单品/帖子"/>
+    </header>
+    <nav>
+      <ul>
+        <li>最新</li>
+        <li>热门</li>
+        <li>猜你喜欢</li>
+      </ul>
+    </nav>
     <section>3c</section>
-    <footer>4d</footer>
+    <footer>
+      <ul>
+        <li><i></i><span>首页</span></li>
+        <li><i></i><span>热卖</span></li>
+        <li><i></i><span>布拉格</span></li>
+        <li><i></i><span>我的</span></li>
+      </ul>
+    </footer>
 </div>
