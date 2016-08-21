@@ -4,12 +4,63 @@
   @include flexbox();
   @include flex-direction(column);
   header{
+    display: block;
     width:100%;
-    height:.44rem;
+    height:.48rem;
+    background:#fff;
+    @include flexbox();
+    @include justify-content(center);
+    @include align-items(center);
+    form{
+      height:.34rem;
+      width:3.1rem;
+      border-radius: 5px;
+      @include flexbox();
+      *{
+        height:100%;
+        border:none;
+        background:#f1f1f1;
+        color:#a9a9a7;
+      }
+      input{
+        @include flex();
+      }
+    }
+  }
+  .swiper-container{
+    width:100%;
+    height:1.58rem;
+    background:#ccc;
+    div:first-child{
+        width:100%;
+        height:100%;
+    }
+    div:last-child{
+        bottom:5px;
+    }
   }
   nav{
+    width:100%;
+    height:.44rem;
+    background:#fff;
+    @include flexbox();
+    @include justify-content(center);
+    @include align-items(center);
     ul{
       @include flexbox();
+      width:3.3rem;
+      height:.34rem;
+      border:1px solid #ff65a3;
+      border-radius: 4px;
+      background:#fff;
+      overflow: hidden;
+      li{
+        @include flex();
+        color:#ff65a3;
+        text-align: center;
+        line-height: .34rem;
+        // background:#000;
+      }
     }
   }
   section{
@@ -18,9 +69,21 @@
   }
   footer{
     width:100%;
-    height:.5rem;
+    height:.47rem;
+    background:#fff;
     ul{
+      width:100%;
       @include flexbox();
+      li{
+        @include flex();
+        text-align: center;
+        font-size:11px;
+        img{
+          width:33%;
+          display: block;
+          margin:0 auto;
+        }
+      }
     }
   }
 
